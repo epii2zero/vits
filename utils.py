@@ -11,7 +11,20 @@ import torch
 
 MATPLOTLIB_FLAG = False
 
-logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
+# logging_dict = {
+#   "DEBUG": logging.DEBUG,
+#   "INFO": logging.INFO,
+#   "WARNING": logging.WARNING,
+#   "ERROR": logging.ERROR,
+#   "CRITICAL": logging.CRITICAL, 
+# }
+# while True:
+#   logging_level = input("Select log level\n |DEBUG|, |INFO|, |WARNING|, |ERROR|, |CRITICAL|\n >>>")
+#   if logging_level in logging_dict:
+#     break
+#   else:
+#     print("Wrong Value")
+logging.basicConfig(stream=sys.stdout, level=logging.WARNING)
 logger = logging
 
 
@@ -141,10 +154,19 @@ def load_filepaths_and_text(filename, split="|"):
   return filepaths_and_text
 
 
+def get_environ():
+  config_path = "./configs/environ.json"
+  with open(config_path, "r") as f:
+    data = f.read()
+  envconfig = json.loads(data)
+  return envconfig
+
 def get_hparams(init=True):
   parser = argparse.ArgumentParser()
   parser.add_argument('-c', '--config', type=str, default="./configs/base.json",
                       help='JSON file for configuration')
+  # parser.add_argument('-ec', '--envconfig', type=str, default="./configs/environ.json",
+  #                     help="JSON file for environment setting")
   parser.add_argument('-m', '--model', type=str, required=True,
                       help='Model name')
   
@@ -155,6 +177,7 @@ def get_hparams(init=True):
     os.makedirs(model_dir)
 
   config_path = args.config
+  # envconfig_path = args.envconfig
   config_save_path = os.path.join(model_dir, "config.json")
   if init:
     with open(config_path, "r") as f:
@@ -211,7 +234,7 @@ def check_git_hash(model_dir):
     open(path, "w").write(cur_hash)
 
 
-def get_logger(model_dir, filename="train.log"):
+def get_logger(model_dir, ecs, filename="train.log"):
   global logger
   logger = logging.getLogger(os.path.basename(model_dir))
   logger.setLevel(logging.DEBUG)

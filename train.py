@@ -33,27 +33,26 @@ from losses import (
 from mel_processing import mel_spectrogram_torch, spec_to_mel_torch
 from text.symbols import symbols
 
-
-torch.backends.cudnn.benchmark = True
+torch.backends.cudnn.benchmark = False
 global_step = 0
 
 
 def main():
   """Assume Single Node Multi GPUs Training Only"""
   assert torch.cuda.is_available(), "CPU training is not allowed."
-
   n_gpus = torch.cuda.device_count()
   os.environ['MASTER_ADDR'] = 'localhost'
-  os.environ['MASTER_PORT'] = '80000'
-
+  os.environ['MASTER_PORT'] = '8976'
   hps = utils.get_hparams()
-  mp.spawn(run, nprocs=n_gpus, args=(n_gpus, hps,))
+  ecs = utils.get_environ()
+  mp.spawn(run, nprocs=n_gpus, args=(n_gpus, hps, ecs))
 
 
-def run(rank, n_gpus, hps):
+def run(rank, n_gpus, hps, ecs):
   global global_step
+  print(f'rank: {rank}')
   if rank == 0:
-    logger = utils.get_logger(hps.model_dir)
+    logger = utils.get_logger(hps.model_dir, ecs)
     logger.info(hps)
     utils.check_git_hash(hps.model_dir)
     writer = SummaryWriter(log_dir=hps.model_dir)
@@ -63,7 +62,11 @@ def run(rank, n_gpus, hps):
   torch.manual_seed(hps.train.seed)
   torch.cuda.set_device(rank)
 
+  logger.info("cuda set done")
+
   train_dataset = TextAudioLoader(hps.data.training_files, hps.data)
+  print("train dataset loader done")
+  logger.info("train dataset loader done")
   train_sampler = DistributedBucketSampler(
       train_dataset,
       hps.train.batch_size,
@@ -96,6 +99,7 @@ def run(rank, n_gpus, hps):
       hps.train.learning_rate, 
       betas=hps.train.betas, 
       eps=hps.train.eps)
+  # data pararllel
   net_g = DDP(net_g, device_ids=[rank])
   net_d = DDP(net_d, device_ids=[rank])
 
