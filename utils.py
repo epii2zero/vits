@@ -11,19 +11,6 @@ import torch
 
 MATPLOTLIB_FLAG = False
 
-# logging_dict = {
-#   "DEBUG": logging.DEBUG,
-#   "INFO": logging.INFO,
-#   "WARNING": logging.WARNING,
-#   "ERROR": logging.ERROR,
-#   "CRITICAL": logging.CRITICAL, 
-# }
-# while True:
-#   logging_level = input("Select log level\n |DEBUG|, |INFO|, |WARNING|, |ERROR|, |CRITICAL|\n >>>")
-#   if logging_level in logging_dict:
-#     break
-#   else:
-#     print("Wrong Value")
 logging.basicConfig(stream=sys.stdout, level=logging.WARNING)
 logger = logging
 
@@ -234,7 +221,7 @@ def check_git_hash(model_dir):
     open(path, "w").write(cur_hash)
 
 
-def get_logger(model_dir, ecs, filename="train.log"):
+def get_logger(model_dir, filename="train.log"):
   global logger
   logger = logging.getLogger(os.path.basename(model_dir))
   logger.setLevel(logging.DEBUG)

@@ -64,6 +64,8 @@ class TextAudioLoader(torch.utils.data.Dataset):
         audiopath, text = audiopath_and_text[0], audiopath_and_text[1]
         text = self.get_text(text)
         spec, wav = self.get_audio(audiopath)
+        # print(text.shape, spec.shape, wav.shape)
+        # print('text:', text, 'spec:', spec, 'wav:', wav)
         return (text, spec, wav)
 
     def get_audio(self, filename):
