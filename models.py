@@ -1,3 +1,9 @@
+### temp
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
+########
 import copy
 import math
 import torch
@@ -144,13 +150,13 @@ class TextEncoder(nn.Module):
       p_dropout):
     super().__init__()
     self.n_vocab = n_vocab
-    self.out_channels = out_channels
-    self.hidden_channels = hidden_channels
-    self.filter_channels = filter_channels
-    self.n_heads = n_heads
-    self.n_layers = n_layers
-    self.kernel_size = kernel_size
-    self.p_dropout = p_dropout
+    self.out_channels = out_channels        # 192 (inter channel)
+    self.hidden_channels = hidden_channels  # 192
+    self.filter_channels = filter_channels  # 768
+    self.n_heads = n_heads                  # 2
+    self.n_layers = n_layers                # 6
+    self.kernel_size = kernel_size          # 3
+    self.p_dropout = p_dropout              # 0.1
 
     self.emb = nn.Embedding(n_vocab, hidden_channels)
     nn.init.normal_(self.emb.weight, 0.0, hidden_channels**-0.5)
@@ -165,13 +171,14 @@ class TextEncoder(nn.Module):
     self.proj= nn.Conv1d(hidden_channels, out_channels * 2, 1)
 
   def forward(self, x, x_lengths):
-    x = self.emb(x) * math.sqrt(self.hidden_channels) # [b, t, h]
-    x = torch.transpose(x, 1, -1) # [b, h, t]
+    # x [Batch, max text length]: phoneme indices padded
+    x = self.emb(x) * math.sqrt(self.hidden_channels) # [b, x length, embedding dim]
+    x = torch.transpose(x, 1, -1) # [b, h, x length]
+    # mask blank text 
     x_mask = torch.unsqueeze(commons.sequence_mask(x_lengths, x.size(2)), 1).to(x.dtype)
-
     x = self.encoder(x * x_mask, x_mask)
     stats = self.proj(x) * x_mask
-
+    # m, logs [B, h, x max lenth]
     m, logs = torch.split(stats, self.out_channels, dim=1)
     return x, m, logs, x_mask
 
@@ -210,6 +217,9 @@ class ResidualCouplingBlock(nn.Module):
 
 
 class PosteriorEncoder(nn.Module):
+  """
+
+  """
   def __init__(self,
       in_channels,
       out_channels,
@@ -219,8 +229,8 @@ class PosteriorEncoder(nn.Module):
       n_layers,
       gin_channels=0):
     super().__init__()
-    self.in_channels = in_channels
-    self.out_channels = out_channels
+    self.in_channels = in_channels              #
+    self.out_channels = out_channels            #
     self.hidden_channels = hidden_channels
     self.kernel_size = kernel_size
     self.dilation_rate = dilation_rate
@@ -436,15 +446,26 @@ class SynthesizerTrn(nn.Module):
 
     self.use_sdp = use_sdp
 
-    self.enc_p = TextEncoder(n_vocab,
-        inter_channels,
-        hidden_channels,
-        filter_channels,
-        n_heads,
-        n_layers,
-        kernel_size,
-        p_dropout)
-    self.dec = Generator(inter_channels, resblock, resblock_kernel_sizes, resblock_dilation_sizes, upsample_rates, upsample_initial_channel, upsample_kernel_sizes, gin_channels=gin_channels)
+    self.enc_p = TextEncoder(
+      n_vocab,
+      inter_channels,
+      hidden_channels,
+      filter_channels,
+      n_heads,
+      n_layers,
+      kernel_size,
+      p_dropout
+    )
+    self.dec = Generator(
+      inter_channels,
+      resblock,
+      resblock_kernel_sizes,
+      resblock_dilation_sizes,
+      upsample_rates,
+      upsample_initial_channel,
+      upsample_kernel_sizes,
+      gin_channels=gin_channels
+    )
     self.enc_q = PosteriorEncoder(spec_channels, inter_channels, hidden_channels, 5, 1, 16, gin_channels=gin_channels)
     self.flow = ResidualCouplingBlock(inter_channels, hidden_channels, 5, 1, 4, gin_channels=gin_channels)
 
@@ -457,19 +478,17 @@ class SynthesizerTrn(nn.Module):
       self.emb_g = nn.Embedding(n_speakers, gin_channels)
 
   def forward(self, x, x_lengths, y, y_lengths, sid=None):
-    print(x.shape, x_lengths.shape)
-    print(x)
-    print(x_lengths)
-    input()
+    # x [batch, max phoneme length]: text, y: spectrogram
     x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths)
-    if self.n_speakers > 0:
+    # x [batch, embedding dim, max length]
+    if self.n_speakers > 0: # speaker global conditioning
       g = self.emb_g(sid).unsqueeze(-1) # [b, h, 1]
     else:
       g = None
-
+    
+    # extract posterior distribution from lin spec
     z, m_q, logs_q, y_mask = self.enc_q(y, y_lengths, g=g)
     z_p = self.flow(z, y_mask, g=g)
-
     with torch.no_grad():
       # negative cross-entropy
       s_p_sq_r = torch.exp(-2 * logs_p) # [b, d, t]
@@ -481,7 +500,6 @@ class SynthesizerTrn(nn.Module):
 
       attn_mask = torch.unsqueeze(x_mask, 2) * torch.unsqueeze(y_mask, -1)
       attn = monotonic_align.maximum_path(neg_cent, attn_mask.squeeze(1)).unsqueeze(1).detach()
-
     w = attn.sum(2)
     if self.use_sdp:
       l_length = self.dp(x, x_mask, w, g=g)
@@ -510,7 +528,20 @@ class SynthesizerTrn(nn.Module):
       logw = self.dp(x, x_mask, g=g, reverse=True, noise_scale=noise_scale_w)
     else:
       logw = self.dp(x, x_mask, g=g)
-    w = torch.exp(logw) * x_mask * length_scale
+
+    # duration control
+    if type(length_scale) == type([]):
+      length_scales = torch.ones_like(logw)
+      for part in length_scale:
+        tot = len(logw[0, 0])
+        s = int(part[1]*tot)
+        e = int(part[2]*tot)
+        length_scales[0,0, s:e] = part[0]
+    else:
+      length_scales = length_scale
+
+    w = torch.exp(logw) * x_mask * length_scales
+
     w_ceil = torch.ceil(w)
     y_lengths = torch.clamp_min(torch.sum(w_ceil, [1, 2]), 1).long()
     y_mask = torch.unsqueeze(commons.sequence_mask(y_lengths, None), 1).to(x_mask.dtype)
@@ -520,6 +551,7 @@ class SynthesizerTrn(nn.Module):
     m_p = torch.matmul(attn.squeeze(1), m_p.transpose(1, 2)).transpose(1, 2) # [b, t', t], [b, t, d] -> [b, d, t']
     logs_p = torch.matmul(attn.squeeze(1), logs_p.transpose(1, 2)).transpose(1, 2) # [b, t', t], [b, t, d] -> [b, d, t']
 
+    # sampling 
     z_p = m_p + torch.randn_like(m_p) * torch.exp(logs_p) * noise_scale
     z = self.flow(z_p, y_mask, g=g, reverse=True)
     o = self.dec((z * y_mask)[:,:,:max_len], g=g)
@@ -535,3 +567,11 @@ class SynthesizerTrn(nn.Module):
     o_hat = self.dec(z_hat * y_mask, g=g_tgt)
     return o_hat, y_mask, (z, z_p, z_hat)
 
+
+class Predictor(nn.Module):
+  """
+    Predict prosody of latent 
+    to control
+  """
+  def __init__(self):
+    pass

@@ -66,6 +66,7 @@ class TextAudioLoader(torch.utils.data.Dataset):
         spec, wav = self.get_audio(audiopath)
         # print(text.shape, spec.shape, wav.shape)
         # print('text:', text, 'spec:', spec, 'wav:', wav)
+        # text: [length], spec: [filter//2+1, length], wav: [channel=1, length]
         return (text, spec, wav)
 
     def get_audio(self, filename):
@@ -87,6 +88,7 @@ class TextAudioLoader(torch.utils.data.Dataset):
         return spec, audio_norm
 
     def get_text(self, text):
+        # text: phoneme
         if self.cleaned_text:
             text_norm = cleaned_text_to_sequence(text)
         else:
@@ -105,6 +107,7 @@ class TextAudioLoader(torch.utils.data.Dataset):
 
 class TextAudioCollate():
     """ Zero-pads model inputs and targets
+        to match the datalenth to pack to the batch
     """
     def __init__(self, return_ids=False):
         self.return_ids = return_ids
@@ -113,13 +116,13 @@ class TextAudioCollate():
         """Collate's training batch from normalized text and aduio
         PARAMS
         ------
-        batch: [text_normalized, spec_normalized, wav_normalized]
+        batch: batch*set(text_normalized, spec_normalized, wav_normalized)
         """
+        # print([(x[0].shape, x[1].shape, x[2].shape) for x in batch])
         # Right zero-pad all one-hot text sequences to max input length
         _, ids_sorted_decreasing = torch.sort(
             torch.LongTensor([x[1].size(1) for x in batch]),
             dim=0, descending=True)
-
         max_text_len = max([len(x[0]) for x in batch])
         max_spec_len = max([x[1].size(1) for x in batch])
         max_wav_len = max([x[2].size(1) for x in batch])

@@ -141,13 +141,6 @@ def load_filepaths_and_text(filename, split="|"):
   return filepaths_and_text
 
 
-def get_environ():
-  config_path = "./configs/environ.json"
-  with open(config_path, "r") as f:
-    data = f.read()
-  envconfig = json.loads(data)
-  return envconfig
-
 def get_hparams(init=True):
   parser = argparse.ArgumentParser()
   parser.add_argument('-c', '--config', type=str, default="./configs/base.json",

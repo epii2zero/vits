@@ -1,7 +1,0 @@
-{
-  "LJspeech": {
-    "hparams_path": "./configs/ljs_base.json",
-    "pretrained_path": "./pretrained/pretrained_ljs.pth"
-  }
-
-}

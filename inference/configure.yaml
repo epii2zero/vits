@@ -1,0 +1,9 @@
+LJspeech:
+  hparams_path: "./configs/ljs_base.json"
+  pretrained_path: "./pretrained/pretrained_ljs.pth"
+  input_path: "./inference/input.yaml"
+
+VCTK:
+  hparams_path: "./configs/vctk_base.json"
+  pretrained_path: "./pretrained/pretrained_vctk.pth"
+  input_path: "./inference/input.yaml"

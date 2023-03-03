@@ -9,3 +9,5 @@ pretrained
 build
 *.c
 monotonic_align/monotonic_align
+inference/result
+inference/figures
