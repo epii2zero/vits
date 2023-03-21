@@ -51,8 +51,8 @@ test3:
         (mean opinion score, or MOS) on the LJ Speech, a single speaker dataset, shows that our
         method outperforms the best publicly available TTS systems and achieves a MOS comparable
         to ground truth."
-  length_scale: 0.8
-  sid: 1
+  length_scale: 1
+  sid: 57
 
 test4:
   text: "Several recent end-to-end text-to-speech (TTS) models enabling single-stage training

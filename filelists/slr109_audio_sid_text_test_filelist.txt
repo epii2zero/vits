@@ -1,0 +1,791 @@
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_24_gaboriau_0012.flac|7|What extraordinary thing could have happened?
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_04_patten_0345.flac|4|Why have I not seen you for so long a time?
+./DUMMY3/audio/9136_other/11325/vanityfair_04_thackeray_0532.flac|0|Heaven pity all poor wanderers lone!
+./DUMMY3/audio/6670_other/8070/shadesofwilderness_10_altsheler_0336.flac|4|How was he to get through that cavalry screen and reach Lee?
+./DUMMY3/audio/6097_clean/13657/roots_50_morris_0140.flac|3|The old man looked on him steadily, and said:
+./DUMMY3/audio/6670_other/8352/astounding_stories06_10_cummings_0391.flac|4|was triumphing.
+./DUMMY3/audio/92_clean/10425/secretagent_08_conrad_0390.flac|8|But it was hard, hard, cruelly hard.
+./DUMMY3/audio/92_clean/7967/wonderfuladventures_14_seacole_0159.flac|8|tobacco,
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_04_patten_0356.flac|4|Would you believe it?
+./DUMMY3/audio/6097_clean/14411/nada_lily_10_haggard_0395.flac|3|Any river is deep enough to drown a fool!
+./DUMMY3/audio/6097_clean/9575/astralplane_02_leadbeater_0163.flac|3|not of course consciously, but automatically -
+./DUMMY3/audio/12787_other/14124/search_12_hill_0285.flac|9|That was eccentric, queer, but it would be perfectly respectable!
+./DUMMY3/audio/92_clean/9288/scarletletter_23_hawthorne_0411.flac|8|to keep the torture always at red-heat!
+./DUMMY3/audio/11614_other/11736/manwhoendedwar_03_godfrey_0441.flac|2|Bewilderment,
+./DUMMY3/audio/12787_other/13887/dayoffate_01_roe_0120.flac|9|Why had I come to the country?
+./DUMMY3/audio/11614_other/12220/barontrump_20_lockwood_0179.flac|2|healthy habitation.
+./DUMMY3/audio/11697_other/14407/bessiesfortune_05_holmes_0169.flac|1|And light a candle, Sam; three candles!
+./DUMMY3/audio/6671_other/12092/silentbattle_05_gibbs_0077.flac|7|their fragrance,
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_014_dumas_0073.flac|5|Sire, said he, old age is boastful;
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_35_gaboriau_0049.flac|7|No filaments, no rough bits of hemp, as usual after a break;
+./DUMMY3/audio/11614_other/12220/barontrump_21_lockwood_0139.flac|2|Is there not always something, or some one, to live for?
+./DUMMY3/audio/12787_other/13685/daredevil_10_daviess_0019.flac|9|uncompromising,
+./DUMMY3/audio/8051_other/9685/annualreportseducation_10_mann_0873.flac|6|chronological,
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_24_gaboriau_0284.flac|7|What must be done?
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_08_patten_0532.flac|4|Wonder what he'd have said!
+./DUMMY3/audio/9136_other/10673/secondsight_29_leverson_0060.flac|0|You don't half understand my condition of health, Edith.
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_16_thompson_0130.flac|1|Why are you so watchful?
+./DUMMY3/audio/9136_other/11325/vanityfair_53_thackeray_0311.flac|0|He did not finish the sentence, but she could interpret it.
+./DUMMY3/audio/6670_other/8352/astounding_stories06_13_cummings_0529.flac|4|listening carefully.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_36_mann_0845.flac|6|Would any sluggard become richer by concealing a worthless pebble in his heap?
+./DUMMY3/audio/9136_other/11325/vanityfair_23_thackeray_0210.flac|0|Could his own conscience ever forgive him if he deserted her?
+./DUMMY3/audio/92_clean/9288/scarletletter_23_hawthorne_0359.flac|8|Then, down he sank upon the scaffold!
+./DUMMY3/audio/92_clean/10425/secretagent_10_conrad_0254.flac|8|How could he explain leaving it?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_14_mann_0000.flac|6|Gentlemen,
+./DUMMY3/audio/6671_other/12092/silentbattle_08_gibbs_0127.flac|7|she said, but she stole a glance at him in spite of herself.
+./DUMMY3/audio/12787_other/14124/search_09_hill_0011.flac|9|Surely he knew him!
+./DUMMY3/audio/6671_other/13462/yellowdove_13_gibbs_0056.flac|7|And he asked me to tell you that when you felt sufficiently recovered he would be glad to wait upon you in the saloon.
+./DUMMY3/audio/6671_other/12092/silentbattle_04_gibbs_0275.flac|7|Silly little fool!
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_20_anonymous_0086.flac|6|Is it possible to amend a Constitution not in accordance with its underlying principles?
+./DUMMY3/audio/6671_other/12092/silentbattle_08_gibbs_0046.flac|7|There was no possible doubt about it!
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_064_dumas_0154.flac|5|what will you do, then?
+./DUMMY3/audio/6097_clean/14411/nada_lily_32_haggard_0057.flac|3|Whose are those children?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_07_mann_0253.flac|6|Here each scholar can stand up in the corner a, or sit upon the seat b.
+./DUMMY3/audio/6671_other/12092/silentbattle_01_gibbs_0022.flac|7|That blessed guide!
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_83_dumas_0085.flac|5|Nothing.
+./DUMMY3/audio/11614_other/10547/thousandnights8_11_anonymous_0417.flac|2|sought my protection;
+./DUMMY3/audio/11614_other/12352/prideofjennico_06_castle_0167.flac|2|These were to be the ministers of my grand marriage!
+./DUMMY3/audio/9136_other/11325/vanityfair_28_thackeray_0118.flac|0|that alarm was unknown,
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_17_anonymous_0197.flac|6|people,
+./DUMMY3/audio/12787_other/13887/dayoffate_01_roe_0269.flac|9|The upper lip, from where I sat, seemed one half of Cupid's bow.
+./DUMMY3/audio/9136_other/11325/vanityfair_26_thackeray_0184.flac|0|when obtained,
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_15_anonymous_0159.flac|6|Gentlemen, have you agreed upon your verdict?
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_36_gaboriau_0363.flac|7|Now reflect, shall I expect you on Wednesday?
+./DUMMY3/audio/11614_other/12352/prideofjennico_07_castle_0245.flac|2|the explanation was comic!
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_02_anonymous_0207.flac|6|Electoral, State, Congress and Assembly.
+./DUMMY3/audio/6097_clean/13657/roots_55_morris_0290.flac|3|Till each on the other aweary they lean?
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_56_dumas_0260.flac|5|do not lie!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_09_mann_0467.flac|6|and whose general circumstances (except in the amount of attention bestowed upon their schools) are similar.
+./DUMMY3/audio/9017_clean/13089/historyofforestry_07_fernow_0244.flac|5|the next in Prussia, in eighteen sixty five, to solve the problems of the removal of litter;
+./DUMMY3/audio/8051_other/9685/annualreportseducation_10_mann_0208.flac|6|The opinion fills the mould, but cannot break it and assume a new form.
+./DUMMY3/audio/9136_other/11325/vanityfair_63_thackeray_0520.flac|0|The portly gentleman,
+./DUMMY3/audio/6670_other/7476/fairmystery_85_clay_0052.flac|4|Could there be any truth in this?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_33_mann_0030.flac|6|irrevocable,
+./DUMMY3/audio/11697_other/15885/strangeworld_26_braddon_0096.flac|1|You think you can establish my Justina's claim to a fine fortune, do you?
+./DUMMY3/audio/92_clean/9783/auntcretesemancipation_01_hill_0134.flac|8|Glad; of course I'm glad, Luella.
+./DUMMY3/audio/9136_other/10673/secondsight_29_leverson_0106.flac|0|How jolly the child looks!
+./DUMMY3/audio/6097_clean/13418/shortstories_10_gaskell_0937.flac|3|I wanted to make mother a present of such a pretty thing! Poor mother!
+./DUMMY3/audio/6097_clean/14764/jaufry_07_lafon_0113.flac|3|Pricking his charger as he spoke the words, he passed along the path.
+./DUMMY3/audio/9017_clean/11216/celebratedcrimesv1_11_dumas_0071.flac|5|everyone wanted the ordeal, everyone wanted to go into the fire;
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_48_dumas_0104.flac|5|never!
+./DUMMY3/audio/6670_other/8352/astounding_stories06_09_cummings_0149.flac|4|causes heat.
+./DUMMY3/audio/6097_clean/14411/nada_lily_00_haggard_0279.flac|3|authority,
+./DUMMY3/audio/12787_other/13887/dayoffate_04_roe_0215.flac|9|Conscious that my homily was growing rather long, I concluded.
+./DUMMY3/audio/11614_other/11736/manwhoendedwar_03_godfrey_0550.flac|2|Should I walk or ride?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_08_mann_0192.flac|6|which,
+./DUMMY3/audio/11697_other/13093/widowbarnaby_35_trollope_0044.flac|1|How like your noble self it is to have made this objection before every other!
+./DUMMY3/audio/6097_clean/14843/bambatse_18_haggard_0321.flac|3|Wake her up, or I will.
+./DUMMY3/audio/11614_other/11736/manwhoendedwar_05_godfrey_0284.flac|2|But how could he know the letter was in Dorothy's hands?
+./DUMMY3/audio/12787_other/14124/search_16_hill_0129.flac|9|Sunny France!
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0631.flac|8|conspicuous,
+./DUMMY3/audio/9136_other/10673/secondsight_20_leverson_0039.flac|0|Oh, you've got on your hat; you were just coming?
+./DUMMY3/audio/6671_other/12092/silentbattle_06_gibbs_0533.flac|7|some made by the feet of a woman, some by the feet of a man.
+./DUMMY3/audio/9136_other/11325/vanityfair_34_thackeray_0703.flac|0|He had in fact, and without knowing it, done what he menaced to do.
+./DUMMY3/audio/11614_other/11965/petersimple_15_marryat_0333.flac|2|The captain eyed it for some minutes in silence, as if in calculation.
+./DUMMY3/audio/6670_other/8070/shadesofwilderness_14_altsheler_0102.flac|4|Because we don't have any writers, and won't have any for a long time!
+./DUMMY3/audio/92_clean/10425/secretagent_06_conrad_0352.flac|8|He allowed himself a little conceited laugh, and repeated:
+./DUMMY3/audio/6097_clean/14843/bambatse_22_haggard_0390.flac|3|One, two!
+./DUMMY3/audio/11697_other/15678/thirdvolume_10_hume_0097.flac|1|Certainly.
+./DUMMY3/audio/12787_other/13887/dayoffate_04_roe_0277.flac|9|What more is there to say about them?
+./DUMMY3/audio/6097_clean/15326/hartmann_04_fawcett_0186.flac|3|where had my curiosity landed me?
+./DUMMY3/audio/9136_other/10673/secondsight_29_leverson_0031.flac|0|Good heavens!
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_02_anonymous_0070.flac|6|Do you know the defendant, Miss Susan B. Anthony?
+./DUMMY3/audio/12787_other/14124/search_15_hill_0075.flac|9|I may never come home, but I'll find God, anyhow!
+./DUMMY3/audio/12787_other/13887/dayoffate_03_roe_0301.flac|9|Why was she laughing at me?
+./DUMMY3/audio/11614_other/12352/prideofjennico_03_castle_0247.flac|2|Meanwhile we are free-free as air!
+./DUMMY3/audio/6671_other/13462/yellowdove_22_gibbs_0264.flac|7|a hundred -
+./DUMMY3/audio/6671_other/13462/yellowdove_03_gibbs_0402.flac|7|You want me to help you?
+./DUMMY3/audio/12787_other/14124/search_09_hill_0095.flac|9|You knew what I came for, and you did it on purpose!
+./DUMMY3/audio/6670_other/8541/atlanticnarratives2_06_thomas_0395.flac|4|reflectively,
+./DUMMY3/audio/9136_other/10673/secondsight_20_leverson_0286.flac|0|Would you see her and judge for yourself?
+./DUMMY3/audio/11697_other/15885/strangeworld_26_braddon_0196.flac|1|Rent moderate.
+./DUMMY3/audio/11614_other/11965/petersimple_16_marryat_0068.flac|2|The dinner was very good, and we were all very merry;
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_05_nietzsche_0893.flac|8|divined,
+./DUMMY3/audio/6670_other/8070/shadesofwilderness_10_altsheler_0462.flac|4|When he saw the man's pistol flash from his belt he went over the side of his horse and the bullet whistled where his body had been.
+./DUMMY3/audio/92_clean/9288/scarletletter_08_hawthorne_0089.flac|8|whispered,
+./DUMMY3/audio/9136_other/11325/vanityfair_15_thackeray_0334.flac|0|I remember one night being in the Fair myself, at an evening party.
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_52_gaboriau_0233.flac|7|He did not seem to hear her, and, in the same tone, he continued:
+./DUMMY3/audio/12787_other/13887/dayoffate_01_roe_0013.flac|9|From casual employment as a reporter I had worked my way up to my present position,
+./DUMMY3/audio/8051_other/9685/annualreportseducation_16_mann_0040.flac|6|who could resist the appeal?
+./DUMMY3/audio/6671_other/12092/silentbattle_21_gibbs_0242.flac|7|He stopped, glared at himself and straightened.
+./DUMMY3/audio/6097_clean/9575/astralplane_04_leadbeater_0303.flac|3|It is not, however, able to do this quite immediately;
+./DUMMY3/audio/9136_other/11325/vanityfair_62_thackeray_0286.flac|0|But have we not all been misled about our heroes and changed our opinions a hundred times?
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_09_nietzsche_0459.flac|8|deterioration,
+./DUMMY3/audio/9017_clean/11216/celebratedcrimesv1_05_dumas_0188.flac|5|Rome, Florence, and Naples had inherited the masterpieces of antiquity;
+./DUMMY3/audio/6097_clean/14843/bambatse_03_haggard_0030.flac|3|"For God's sake save me!"
+./DUMMY3/audio/11614_other/12352/prideofjennico_17_castle_0084.flac|2|How she must love this man!
+./DUMMY3/audio/92_clean/6973/livingalone_08_benson_0473.flac|8|Hell.
+./DUMMY3/audio/6671_other/12092/silentbattle_04_gibbs_0083.flac|7|"You - you've hurt yourself?"
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_02_patten_0003.flac|4|there lies a small market town or rural port,
+./DUMMY3/audio/12787_other/13887/dayoffate_08_roe_0269.flac|9|Well, it may seem very silly to you, but I can't help it.
+./DUMMY3/audio/11697_other/14407/bessiesfortune_29_holmes_0105.flac|1|Can you read between the lines?
+./DUMMY3/audio/11614_other/14179/catholicmorals_86_stapleton_0045.flac|2|And who is there that really thinks he is not worth more than he gets?
+./DUMMY3/audio/6670_other/8512/juniorclassics_7_30_patten_0038.flac|4|When the relief came, the man would just be missing.
+./DUMMY3/audio/6670_other/8221/captainhatteras2_17_verne_0147.flac|4|I was trying to clear the North-West Passage, and that was all.
+./DUMMY3/audio/6671_other/13462/yellowdove_09_gibbs_0064.flac|7|dressing warmly,
+./DUMMY3/audio/8051_other/9685/annualreportseducation_28_mann_0713.flac|6|may,
+./DUMMY3/audio/9136_other/11325/vanityfair_29_thackeray_0289.flac|0|Look how he's laughing!
+./DUMMY3/audio/11697_other/15885/strangeworld_25_braddon_0186.flac|1|Was this a man to betray an innocent girl, and bring disgrace upon an honest yeoman's household?
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_03_nietzsche_0130.flac|8|How is the negation of will POSSIBLE?
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_86_dumas_0030.flac|5|quick!
+./DUMMY3/audio/6097_clean/14843/bambatse_22_haggard_0192.flac|3|And why was the air in this deep place so fresh?
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_06_dumas_0089.flac|5|Oh, no!
+./DUMMY3/audio/6670_other/12502/wonderbook_03_hawthorne_0172.flac|4|Even the helmet, that covered him with its invisibility, had vanished!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_03_mann_0359.flac|6|the compensation is fixed at seventy-five cents for each visit (understood to occupy a full half-day);
+./DUMMY3/audio/92_clean/10425/secretagent_04_conrad_0605.flac|8|"What are you going to do?"
+./DUMMY3/audio/6670_other/8352/astounding_stories06_13_cummings_0049.flac|4|Sure, I believe you.
+./DUMMY3/audio/11614_other/11965/petersimple_28_marryat_0440.flac|2|He bailed again; I heard him, but was not able to answer.
+./DUMMY3/audio/6671_other/12092/silentbattle_18_gibbs_0180.flac|7|His health!
+./DUMMY3/audio/6097_clean/14411/nada_lily_00_haggard_0413.flac|3|You do not believe in me and my wisdom; why should I help you?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_15_mann_0939.flac|6|Is it true?
+./DUMMY3/audio/12787_other/13887/dayoffate_02_roe_0097.flac|9|Would you drag her into the turmoil of your world because she would be a solace?
+./DUMMY3/audio/6670_other/8511/astoundingstories07_13_0347.flac|4|We were too late to prevent the renewal of hostilities!
+./DUMMY3/audio/6671_other/12092/silentbattle_23_gibbs_0019.flac|7|He smiled more, and his capacity for work seemed unlimited.
+./DUMMY3/audio/92_clean/10425/secretagent_13_conrad_0475.flac|8|"How did you first come to hear of it?"
+./DUMMY3/audio/11614_other/12352/prideofjennico_10_castle_0771.flac|2|Those hours, had she not shared them with him?
+./DUMMY3/audio/11697_other/15678/thirdvolume_16_hume_0082.flac|1|There is nothing wrong, I hope?
+./DUMMY3/audio/9017_clean/13130/dartagnan01_38_dumas_0037.flac|5|No, but I have just met with a terrible adventure!
+./DUMMY3/audio/6097_clean/14843/bambatse_03_haggard_0071.flac|3|Certainly, Mister Seymour.
+./DUMMY3/audio/11614_other/10547/thousandnights8_24_anonymous_0185.flac|2|Go in and sleep, without madness.
+./DUMMY3/audio/92_clean/9288/scarletletter_00b_hawthorne_0389.flac|8|His countenance, in this repose, was mild and kindly.
+./DUMMY3/audio/6097_clean/14411/nada_lily_24_haggard_0042.flac|3|Listen!
+./DUMMY3/audio/12787_other/13404/openingachestnutburr_09_roe_0028.flac|9|He must be better.
+./DUMMY3/audio/11614_other/12352/prideofjennico_07_castle_0038.flac|2|ready to face,
+./DUMMY3/audio/92_clean/9288/scarletletter_23_hawthorne_0171.flac|8|The crowd, meanwhile, looked on with awe and wonder.
+./DUMMY3/audio/9136_other/10673/secondsight_02_leverson_0260.flac|0|And the very book a few inches from your hand!
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_28_gaboriau_0077.flac|7|He reflected a moment, then added:
+./DUMMY3/audio/6097_clean/13418/shortstories_10_gaskell_0182.flac|3|Bessy did not speak, but she was evidently very much displeased.
+./DUMMY3/audio/6670_other/10682/mysteriesoflondon2_090_reynolds_0657.flac|4|And it was clear that she had departed so abruptly to avoid me!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_50_mann_0120.flac|6|In other words, can there be Christianity without them?
+./DUMMY3/audio/6097_clean/9575/astralplane_06_leadbeater_0295.flac|3|second, those which are visible but not tangible;
+./DUMMY3/audio/9136_other/11325/vanityfair_21_thackeray_0421.flac|0|It wasn't I, sir, that introduced Miss Sedley's name.
+./DUMMY3/audio/11697_other/15678/thirdvolume_11_hume_0055.flac|1|Be sensible.
+./DUMMY3/audio/11697_other/15678/thirdvolume_15_hume_0215.flac|1|Quite true.
+./DUMMY3/audio/9017_clean/13130/dartagnan01_33_dumas_0174.flac|5|I understand my game, Kitty; I have this one safe.
+./DUMMY3/audio/12787_other/13887/dayoffate_02_roe_0095.flac|9|What right have you to approach such a creature?
+./DUMMY3/audio/6671_other/12092/silentbattle_15_gibbs_0148.flac|7|reflectively.
+./DUMMY3/audio/6097_clean/9575/astralplane_02_leadbeater_0207.flac|3|secondly, the vibrations of its physical particles are perceptible;
+./DUMMY3/audio/11614_other/11965/petersimple_16_marryat_0054.flac|2|That is to say, that you are very curious to see them.
+./DUMMY3/audio/9136_other/11325/vanityfair_33_thackeray_0235.flac|0|the Countess Southdown,
+./DUMMY3/audio/6097_clean/9575/astralplane_06_leadbeater_0461.flac|3|take from mine eyes this cruel light!
+./DUMMY3/audio/6097_clean/13657/roots_29_morris_0113.flac|3|partly wondering,
+./DUMMY3/audio/11697_other/13673/actressinhighlife_18_bowen_0323.flac|1|Why should she not, like any of her comrades, bring home a friend to sup with her?
+./DUMMY3/audio/12787_other/14124/search_12_hill_0213.flac|9|She was willing to come with his mother!
+./DUMMY3/audio/6097_clean/13657/roots_14_morris_0092.flac|3|Come, no words!
+./DUMMY3/audio/11614_other/10547/thousandnights8_11_anonymous_0190.flac|2|teeth snowy white,
+./DUMMY3/audio/9017_clean/11216/celebratedcrimesv1_07_dumas_0054.flac|5|Such a reply, one may easily understand, terrified the republic.
+./DUMMY3/audio/92_clean/9288/scarletletter_04_hawthorne_0158.flac|8|and,
+./DUMMY3/audio/6670_other/8511/astoundingstories07_12_0131.flac|4|immediately.
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_07_nietzsche_0469.flac|8|And how many spirits we harbour?
+./DUMMY3/audio/9136_other/10673/secondsight_29_leverson_0066.flac|0|But wouldn't it seem the least bit rude to Madame Frabelle?
+./DUMMY3/audio/12787_other/13404/openingachestnutburr_18_roe_0018.flac|9|apprehensively,
+./DUMMY3/audio/6670_other/8352/astounding_stories06_13_cummings_0236.flac|4|White bellies up, the fish died as though by magic.
+./DUMMY3/audio/11614_other/14179/catholicmorals_96_stapleton_0025.flac|2|The lawful owner may be dead, or unfindable among the living;
+./DUMMY3/audio/11614_other/12352/prideofjennico_07_castle_0145.flac|2|What could a gentleman do more?
+./DUMMY3/audio/9136_other/10673/secondsight_19_leverson_0113.flac|0|professionally.
+./DUMMY3/audio/6670_other/8274/florencenightingaleangelcrimea_11_richards_0196.flac|4|Not one!
+./DUMMY3/audio/6671_other/13462/yellowdove_14_gibbs_0505.flac|7|delivered significantly,
+./DUMMY3/audio/6670_other/8352/astounding_stories06_09_cummings_0195.flac|4|increase power.
+./DUMMY3/audio/6097_clean/9575/astralplane_05_leadbeater_0111.flac|3|If it is sufficiently powerful to seize upon and inhabit some passing shell it frequently does so,
+./DUMMY3/audio/11614_other/11965/petersimple_03_marryat_0067.flac|2|Why, don't you recollect?
+./DUMMY3/audio/9136_other/10673/secondsight_29_leverson_0032.flac|0|Pretty sharp work.
+./DUMMY3/audio/6670_other/8541/atlanticnarratives2_04_thomas_0115.flac|4|Such thoughts were, however, neither frequent nor enduring with her.
+./DUMMY3/audio/11697_other/15885/strangeworld_31_braddon_0028.flac|1|She has owned that her life has been bitterness since that fatal day!
+./DUMMY3/audio/11697_other/13093/widowbarnaby_25_trollope_0252.flac|1|Because.
+./DUMMY3/audio/11614_other/12352/prideofjennico_07_castle_0301.flac|2|What would I not give now to be back at that hour!
+./DUMMY3/audio/9136_other/11325/vanityfair_62_thackeray_0197.flac|0|Yes, they were very happy.
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_77_dumas_0036.flac|5|stop!
+./DUMMY3/audio/11614_other/12352/prideofjennico_01_castle_0077.flac|2|Our good mother (who would not be the true woman she is did she not set a value on the honours of this world),
+./DUMMY3/audio/92_clean/10425/secretagent_01_conrad_0159.flac|8|but,
+./DUMMY3/audio/11697_other/15678/thirdvolume_16_hume_0210.flac|1|She was accused of the murder, I think; but she didn't do it.
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_48_dumas_0088.flac|5|beautiful!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_07_mann_0434.flac|6|When the school is not large, it should be at the end of the room.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_23_mann_0256.flac|6|In bulk, the principal ingredient of the air is nitrogen.
+./DUMMY3/audio/6671_other/13462/yellowdove_02_gibbs_0107.flac|7|inhaling luxuriously.
+./DUMMY3/audio/92_clean/10425/secretagent_06_conrad_0071.flac|8|Unfortunately, one of the police constables got shot too.
+./DUMMY3/audio/6670_other/8511/astoundingstories07_12_0389.flac|4|Marie was just twenty-eight!
+./DUMMY3/audio/11697_other/15678/thirdvolume_13_hume_0193.flac|1|In a few minutes he came shuffling round the corner, and his withered face relaxed into a grin when he saw her standing by the gate.
+./DUMMY3/audio/92_clean/9288/scarletletter_00b_hawthorne_0506.flac|8|He seemed away from us, although we saw him but a few yards off;
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_20_anonymous_0413.flac|6|What are United States rights?
+./DUMMY3/audio/12787_other/14124/search_09_hill_0188.flac|9|Whether he was worthy or not they should not do this thing to him!
+./DUMMY3/audio/9136_other/11325/vanityfair_61_thackeray_0581.flac|0|the pleasant holidays,
+./DUMMY3/audio/6670_other/6416/fourweirdtales_05_blackwood_0084.flac|4|The last two years, indeed, had been for him terrible.
+./DUMMY3/audio/12787_other/14124/search_09_hill_0010.flac|9|But they were fellow townsmen, and had gone to school together!
+./DUMMY3/audio/9017_clean/13130/dartagnan01_26_dumas_0132.flac|5|"Ordination!"
+./DUMMY3/audio/12787_other/13887/dayoffate_16_roe_0144.flac|9|flushing deeply,
+./DUMMY3/audio/11697_other/13093/widowbarnaby_36_trollope_0025.flac|1|Carriage perfect.
+./DUMMY3/audio/12787_other/13887/dayoffate_02_roe_0067.flac|9|Am I a Turk, holding the doctrine that women have no souls, no minds?
+./DUMMY3/audio/12787_other/13887/dayoffate_01_roe_0001.flac|9|I had just irately blamed a printer for a blunder of my own,
+./DUMMY3/audio/8051_other/9685/annualreportseducation_06_mann_0193.flac|6|The other principal ingredient, called azote, will not sustain life.
+./DUMMY3/audio/9136_other/11325/vanityfair_62_thackeray_0150.flac|0|As for Emmy, she was very happy and pleased.
+./DUMMY3/audio/12787_other/13887/dayoffate_28_roe_0346.flac|9|Because our Lord was a man of sorrows, was he in love with sorrows?
+./DUMMY3/audio/12787_other/14124/search_10_hill_0163.flac|9|"Now!" he said as he put the car to its best speed and switched on its headlights again.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_16_mann_0254.flac|6|Their means, therefore, cannot be very abundant;
+./DUMMY3/audio/8051_other/9685/annualreportseducation_44_mann_0649.flac|6|There is no need of perilling fortunes, as is done every day in trade.
+./DUMMY3/audio/11697_other/13093/widowbarnaby_22_trollope_0168.flac|1|perfectly.
+./DUMMY3/audio/11697_other/14407/bessiesfortune_28_holmes_0124.flac|1|Oh, Grey, you are not going to give me up because of that?
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_22_gaboriau_0091.flac|7|Poor deluded creatures!
+./DUMMY3/audio/6670_other/12576/goldengemsoflife_002_allen_0094.flac|4|Compared with it, wealth, mansion, palace, are cold, heartless terms.
+./DUMMY3/audio/11614_other/10547/thousandnights8_04_anonymous_0371.flac|2|He ate not nor drank nor slept, nor was there any rest for him;
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_09_patten_0192.flac|4|At which the first clerk became perfunctory again, but civil.
+./DUMMY3/audio/9017_clean/11216/celebratedcrimesv1_11_dumas_0049.flac|5|but he proposed another challenge:
+./DUMMY3/audio/11614_other/10547/thousandnights8_19_anonymous_0313.flac|2|Accordingly,
+./DUMMY3/audio/92_clean/10425/secretagent_13_conrad_0333.flac|8|Love him!
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_26_gaboriau_0142.flac|7|Come!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_11_mann_0169.flac|6|devotional;
+./DUMMY3/audio/11614_other/10547/thousandnights8_26_anonymous_0269.flac|2|And shall win my wish and my friend shall know!
+./DUMMY3/audio/6670_other/8352/astounding_stories06_09_cummings_0020.flac|4|what has that to do with our trouble?
+./DUMMY3/audio/11614_other/12352/prideofjennico_05_castle_0260.flac|2|"Her Highness has entrusted you with a message?"
+./DUMMY3/audio/6671_other/13462/yellowdove_06_gibbs_0271.flac|7|"And how do you know they're in my possession?"
+./DUMMY3/audio/11614_other/11965/petersimple_28_marryat_0479.flac|2|Some agreed with me, but others did not.
+./DUMMY3/audio/9017_clean/11216/celebratedcrimesv1_18_dumas_0048.flac|5|his rope was too short.
+./DUMMY3/audio/9136_other/11325/vanityfair_19_thackeray_0447.flac|0|There was something about the girl, too.
+./DUMMY3/audio/11697_other/14407/bessiesfortune_08_holmes_0196.flac|1|No, she has had no youth, no girlhood; but to her he said:
+./DUMMY3/audio/12787_other/13887/dayoffate_07_roe_0081.flac|9|She looked at me hastily, and her face grew pale.
+./DUMMY3/audio/11697_other/13093/widowbarnaby_33_trollope_0078.flac|1|Yet what could she say more?
+./DUMMY3/audio/12787_other/13887/dayoffate_19_roe_0164.flac|9|"A plague on my memory!" I exclaimed.
+./DUMMY3/audio/6671_other/12092/silentbattle_04_gibbs_0174.flac|7|Some more tea, please!
+./DUMMY3/audio/9136_other/11325/vanityfair_07_thackeray_0341.flac|0|When she went to sleep, Rebecca chose that one to dream about.
+./DUMMY3/audio/6097_clean/14411/nada_lily_31_haggard_0409.flac|3|Then be silent on the matter, and let us give out our feast.
+./DUMMY3/audio/12787_other/13887/dayoffate_02_roe_0069.flac|9|Then how was I, a man, to interpret the world to women?
+./DUMMY3/audio/11697_other/15678/thirdvolume_07_hume_0230.flac|1|Just fancy!
+./DUMMY3/audio/6670_other/9635/religiousstudies_34_stowe_0066.flac|4|Can any but a child look so pretty, even in its naughtiness?
+./DUMMY3/audio/9136_other/11325/vanityfair_41_thackeray_0194.flac|0|which all mothers,
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_62_dumas_0242.flac|5|"Alone?"
+./DUMMY3/audio/6097_clean/15277/swag_04_tompkins_0655.flac|3|Water may be got at the station, and the billy boiled right away.
+./DUMMY3/audio/6097_clean/11271/glitteringplain_16_morris_0130.flac|3|So they filled their wallets, while the man looked on;
+./DUMMY3/audio/6670_other/8352/astounding_stories06_14_cummings_0249.flac|4|If he opens it, it will kill him in just that way.
+./DUMMY3/audio/6670_other/8512/juniorclassics_7_32_patten_0161.flac|4|is incomprehensible.
+./DUMMY3/audio/9136_other/10673/secondsight_24_leverson_0037.flac|0|But that he should actually prefer him to Bruce!
+./DUMMY3/audio/6670_other/9635/religiousstudies_19_stowe_0041.flac|4|Do the majority of Christians have it?
+./DUMMY3/audio/11614_other/11965/petersimple_29_marryat_0115.flac|2|The next day, rather a singular circumstance occurred.
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_03_nietzsche_0517.flac|8|as the man who has so far flown highest and gone astray in the finest fashion!
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_75_dumas_0108.flac|5|"Provided,"
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_18_anonymous_0108.flac|6|If he committed a crime, it was the master who must sue or be sued.
+./DUMMY3/audio/6097_clean/14411/nada_lily_00_haggard_0063.flac|3|Yet what does that avail?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_34_mann_0637.flac|6|And has not experience proved what reason might have predicted?
+./DUMMY3/audio/11614_other/12352/prideofjennico_09_castle_0068.flac|2|I did not-I am glad to say this-I did not for a second waver in my resolution of fidelity to my wife,
+./DUMMY3/audio/9017_clean/13130/dartagnan01_27_dumas_0550.flac|5|"What do you say?"
+./DUMMY3/audio/6097_clean/14843/bambatse_05_haggard_0238.flac|3|Nothing matters;
+./DUMMY3/audio/9136_other/10673/secondsight_26_leverson_0067.flac|0|Yes, I respect him.
+./DUMMY3/audio/11697_other/13673/actressinhighlife_01_bowen_0004.flac|1|Gentle Reader:
+./DUMMY3/audio/6097_clean/15326/hartmann_06_fawcett_0059.flac|3|"Beautiful, isn't it?"
+./DUMMY3/audio/9136_other/11325/vanityfair_41_thackeray_0057.flac|0|Both of them were rather agitated, and thinking of old times.
+./DUMMY3/audio/11614_other/14179/catholicmorals_96_stapleton_0061.flac|2|The essential is not that you be found out, but that you refund.
+./DUMMY3/audio/92_clean/10425/secretagent_13_conrad_0616.flac|8|All the money there was in the bank, or what?
+./DUMMY3/audio/12787_other/13404/openingachestnutburr_02_roe_0230.flac|9|Further concealment was now impossible.
+./DUMMY3/audio/9136_other/11325/vanityfair_58_thackeray_0376.flac|0|Why did he not take her in his arms and swear that he would never leave her?
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_036_dumas_0071.flac|5|but -
+./DUMMY3/audio/11697_other/15678/thirdvolume_10_hume_0116.flac|1|I know.
+./DUMMY3/audio/11614_other/11736/manwhoendedwar_03_godfrey_0552.flac|2|I decided.
+./DUMMY3/audio/6670_other/9635/religiousstudies_19_stowe_0016.flac|4|is it possible to be at peace?
+./DUMMY3/audio/11614_other/14179/catholicmorals_36_stapleton_0075.flac|2|Or is there an intention of giving them this signification?
+./DUMMY3/audio/6097_clean/15326/hartmann_06_fawcett_0085.flac|3|What authority has he?
+./DUMMY3/audio/12787_other/13887/dayoffate_31_roe_0143.flac|9|It's impossible.
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0655.flac|8|Have there ever been such philosophers?
+./DUMMY3/audio/11614_other/12220/barontrump_31_lockwood_0061.flac|2|"Whom have I the pleasure of meeting in this beautiful section of the World within a World?"
+./DUMMY3/audio/12787_other/13685/daredevil_17_daviess_0212.flac|9|Here, give me the bag, and you go ahead with this electric torch.
+./DUMMY3/audio/9136_other/11325/vanityfair_35_thackeray_0111.flac|0|What a dreary mourning it is to dwell upon those vehement protests of dead affection!
+./DUMMY3/audio/9136_other/10673/secondsight_14_leverson_0164.flac|0|Which was the more attractive?
+./DUMMY3/audio/11614_other/11965/petersimple_16_marryat_0584.flac|2|I thought, and the result proved, that it was carried too far.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_34_mann_0676.flac|6|Have we subdued low vices, low indulgences, and selfish feelings?
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_28_gaboriau_0449.flac|7|We have distrusted him, but we should ask his pardon.
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_058_dumas_0067.flac|5|Was it not this?
+./DUMMY3/audio/92_clean/10425/secretagent_09_conrad_0292.flac|8|Goodness me!
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_24_gaboriau_0283.flac|7|How was this danger to be averted?
+./DUMMY3/audio/6097_clean/14411/nada_lily_00_haggard_0077.flac|3|Therefore,
+./DUMMY3/audio/92_clean/9783/auntcretesemancipation_03_hill_0022.flac|8|Why couldn't things attend to themselves?
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_074_dumas_0047.flac|5|Alas!
+./DUMMY3/audio/12787_other/14124/search_18_hill_0287.flac|9|I'm sure I saw it move - There!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_09_mann_0602.flac|6|But do the scholars fail to understand the meaning of the words they read?
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_03_patten_0443.flac|4|Oh, these women!
+./DUMMY3/audio/6097_clean/14843/bambatse_22_haggard_0255.flac|3|How, then, did the crocodile get out?
+./DUMMY3/audio/6671_other/12092/silentbattle_03_gibbs_0186.flac|7|"Aren't you asleep?"
+./DUMMY3/audio/12787_other/13887/dayoffate_14_roe_0292.flac|9|Miss Warren will help me, and I think all will be well.
+./DUMMY3/audio/9017_clean/13130/dartagnan01_30_dumas_0198.flac|5|"Where, if you please?"
+./DUMMY3/audio/6671_other/12092/silentbattle_19_gibbs_0389.flac|7|somewhat uncertainly,
+./DUMMY3/audio/11697_other/15678/thirdvolume_17_hume_0340.flac|1|not before.
+./DUMMY3/audio/92_clean/10425/secretagent_05_conrad_0639.flac|8|"You believe there were two men?"
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_11_thompson_0079.flac|1|Involuntarily he would put his hand to his cheek, and grimace reminiscently.
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_09_thompson_0083.flac|1|If I were a man I'd love to fight!
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_52_dumas_0251.flac|5|That may be!
+./DUMMY3/audio/11614_other/12352/prideofjennico_19_castle_0029.flac|2|Indeed, her precaution was not idle:
+./DUMMY3/audio/11697_other/15885/strangeworld_13_braddon_0116.flac|1|In a word, he took things easily.
+./DUMMY3/audio/12787_other/13887/dayoffate_17_roe_0105.flac|9|very harmless,
+./DUMMY3/audio/6671_other/12092/silentbattle_15_gibbs_0213.flac|7|"Do you think so?"
+./DUMMY3/audio/6097_clean/11271/glitteringplain_01_morris_0079.flac|3|They scarce looked on him, but cried out together mournfully:
+./DUMMY3/audio/9017_clean/13130/dartagnan01_39_dumas_0075.flac|5|One is for seven o'clock, and the other for eight;
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_04_nietzsche_0104.flac|8|Or stupid enough?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_28_mann_0715.flac|6|put,
+./DUMMY3/audio/9017_clean/15482/zarathustra_58_nietzsche_0162.flac|5|Why so soft, so submissive and yielding?
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_24_gaboriau_0205.flac|7|Wife, where is your energy?
+./DUMMY3/audio/92_clean/10425/secretagent_11_conrad_0329.flac|8|Look here!
+./DUMMY3/audio/6097_clean/8992/presentpictureofnsw_02_mann_0526.flac|3|Not to convey any person, unless a settler, without a pass;
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_03_nietzsche_0200.flac|8|these sentences with their truth absolutely inverted!
+./DUMMY3/audio/6670_other/9201/littlewhitebird_14_barrie_0246.flac|4|"What shall I be?"
+./DUMMY3/audio/9136_other/10673/secondsight_26_leverson_0026.flac|0|They were so certain to go over the same ground again and again!
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_08_patten_0282.flac|4|That's what gets me!
+./DUMMY3/audio/12787_other/14124/search_10_hill_0294.flac|9|Well, suppose he were!
+./DUMMY3/audio/6670_other/8541/atlanticnarratives2_04_thomas_0294.flac|4|still unsuccessfully.
+./DUMMY3/audio/12787_other/13887/dayoffate_28_roe_0108.flac|9|Was it my imagination, or did she slightly shrink from him?
+./DUMMY3/audio/6670_other/12417/mystrangerescue_14_oxley_0198.flac|4|One, two, three opponents were safely passed!
+./DUMMY3/audio/9136_other/10673/secondsight_29_leverson_0242.flac|0|Then he went indoors.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_37_mann_0699.flac|6|Self-denial is not so much a pre-eminent virtue as it is the parent of all the virtues.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_41_mann_0522.flac|6|Above,
+./DUMMY3/audio/92_clean/10425/secretagent_03_conrad_0224.flac|8|Simple, is it not?
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_12_gaboriau_0179.flac|7|This rascal has a right to some consideration!
+./DUMMY3/audio/9136_other/10673/secondsight_03_leverson_0195.flac|0|Those grey eyes, so wide apart!
+./DUMMY3/audio/11697_other/13093/widowbarnaby_20_trollope_0276.flac|1|Unlikely!
+./DUMMY3/audio/9136_other/10673/secondsight_17_leverson_0055.flac|0|But now he's used to that sort of thing, isn't he?
+./DUMMY3/audio/11614_other/12352/prideofjennico_07_castle_0019.flac|2|Was it mockery?
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_11_gaboriau_0334.flac|7|Go, you little wretch!
+./DUMMY3/audio/11614_other/11965/petersimple_29_marryat_0249.flac|2|although the weather was now warm, yet not too warm -
+./DUMMY3/audio/6671_other/12092/silentbattle_04_gibbs_0080.flac|7|Good morning!
+./DUMMY3/audio/9017_clean/11216/celebratedcrimesv1_22_dumas_0066.flac|5|Beatrice placed her turban on her head, and they awaited the last summons.
+./DUMMY3/audio/9136_other/11325/vanityfair_15_thackeray_0330.flac|0|advantageous,
+./DUMMY3/audio/8051_other/9685/annualreportseducation_02_mann_0137.flac|6|Are there not many who miss it altogether?
+./DUMMY3/audio/6670_other/8070/shadesofwilderness_10_altsheler_0564.flac|4|Weren't you trying to escape?
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_18_thompson_0034.flac|1|She lay pitifully crumpled, one arm outstretched in the moonlight.
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_03_nietzsche_0664.flac|8|Was that a work for your hands?
+./DUMMY3/audio/6097_clean/15326/hartmann_01_fawcett_0281.flac|3|For the life of me I can't see light here!
+./DUMMY3/audio/6670_other/8274/florencenightingaleangelcrimea_07_richards_0094.flac|4|intellectual,
+./DUMMY3/audio/11697_other/13093/widowbarnaby_22_trollope_0210.flac|1|Well, then.
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_05_patten_0191.flac|4|described.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_44_mann_0808.flac|6|I suppose the cost of a common foot-soldier in the army cannot be less than two hundred fifty dollars a year.
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_52_gaboriau_0221.flac|7|despondently:
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_00_thompson_0004.flac|1|fragmentary epistle;
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_05_anonymous_0231.flac|6|When the State officers attempted to interpose between us and the ballot-box the State Constitution or State law,
+./DUMMY3/audio/6097_clean/14843/bambatse_05_haggard_0254.flac|3|"Shall we stop or go on?"
+./DUMMY3/audio/12787_other/13887/dayoffate_12_roe_0124.flac|9|It haunts me, oppresses me.
+./DUMMY3/audio/6670_other/7908/buffcollie_08_terhune_0099.flac|4|How did you find me?
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_35_gaboriau_0150.flac|7|The spirit was strong, but the flesh shuddered.
+./DUMMY3/audio/9017_clean/11216/celebratedcrimesv1_05_dumas_0184.flac|5|The rich man brought his merchandise, the poor his industry:
+./DUMMY3/audio/92_clean/10425/secretagent_11_conrad_0352.flac|8|It was a silly, murderous trick to expose for nothing a man-like me.
+./DUMMY3/audio/6670_other/8352/astounding_stories06_14_cummings_0612.flac|4|reinforced.
+./DUMMY3/audio/6670_other/6416/fourweirdtales_07_blackwood_0103.flac|4|imperceptibly.
+./DUMMY3/audio/11697_other/15885/strangeworld_32_braddon_0226.flac|1|Happy summer-tides for the young married people, for the children, for the lovers!
+./DUMMY3/audio/6671_other/12092/silentbattle_04_gibbs_0407.flac|7|"We are lost, both of us - hopelessly,"
+./DUMMY3/audio/8051_other/9685/annualreportseducation_18_mann_0375.flac|6|Fourth,
+./DUMMY3/audio/11614_other/10547/thousandnights8_17_anonymous_0221.flac|2|When he reached the bank, he girt himself and tucked up his skirts;
+./DUMMY3/audio/12787_other/13887/dayoffate_17_roe_0115.flac|9|regretful interest;
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_08_thompson_0040.flac|1|It all counts against me!
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_50_dumas_0534.flac|5|What else do you think he could say?
+./DUMMY3/audio/9136_other/10673/secondsight_21_leverson_0126.flac|0|What is it that's made me change so?
+./DUMMY3/audio/6097_clean/13418/shortstories_10_gaskell_0677.flac|3|She put the pie in, and blew the fire;
+./DUMMY3/audio/92_clean/7967/wonderfuladventures_17_seacole_0261.flac|8|watching,
+./DUMMY3/audio/6670_other/9506/portent_18_macdonald_0075.flac|4|"How do you see so much of her, though?"
+./DUMMY3/audio/9136_other/11325/vanityfair_02_thackeray_0435.flac|0|And then, to have a brother, a dear brother!
+./DUMMY3/audio/6670_other/8511/astoundingstories07_12_0343.flac|4|I thought of telephoning, but, what was the use?
+./DUMMY3/audio/11697_other/13093/widowbarnaby_41_trollope_0020.flac|1|But, sister Agnes, what a blessing it was that you did not happen to fall in love with Frederick!
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_07_nietzsche_0828.flac|8|But she does not want truth - what does woman care for truth?
+./DUMMY3/audio/6671_other/12092/silentbattle_09_gibbs_0195.flac|7|What is the matter, Jane?
+./DUMMY3/audio/11614_other/12352/prideofjennico_18_castle_0457.flac|2|The same, yet not the same!
+./DUMMY3/audio/11614_other/12352/prideofjennico_06_castle_0107.flac|2|I had dressed very fine, as became a bridegroom;
+./DUMMY3/audio/11697_other/13093/widowbarnaby_12_trollope_0023.flac|1|such a milliner!
+./DUMMY3/audio/9136_other/11325/vanityfair_31_thackeray_0422.flac|0|When you were quite poor, who was it that befriended you?
+./DUMMY3/audio/6671_other/12092/silentbattle_09_gibbs_0221.flac|7|wide open,
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_12_gaboriau_0036.flac|7|How he measured me, that magnificent rustic!
+./DUMMY3/audio/6097_clean/14843/bambatse_01_haggard_0405.flac|3|"Artificial or natural?"
+./DUMMY3/audio/6670_other/12417/mystrangerescue_16_oxley_0023.flac|4|Oh, that's all right!
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_26_gaboriau_0072.flac|7|Let peaceable citizens take courage; let the evil-disposed tremble!
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_07_nietzsche_0843.flac|8|Finally, I ask the question:
+./DUMMY3/audio/9136_other/11325/vanityfair_47_thackeray_0405.flac|0|who meekly expostulated,
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_080_dumas_0061.flac|5|Unfortunately.
+./DUMMY3/audio/6670_other/8541/atlanticnarratives2_04_thomas_0137.flac|4|unimaginative,
+./DUMMY3/audio/11697_other/15678/thirdvolume_06_hume_0229.flac|1|That you are my mother is no doubt true, but I ask you if you have performed your maternal duties?
+./DUMMY3/audio/9136_other/10673/secondsight_12_leverson_0123.flac|0|Good gracious, this is Liberty Hall, I hope - isn't it?
+./DUMMY3/audio/6097_clean/14764/jaufry_01_lafon_0209.flac|3|inquired they.
+./DUMMY3/audio/9136_other/10673/secondsight_10_leverson_0132.flac|0|Of course the invitation was accepted, and once again he was happy!
+./DUMMY3/audio/9136_other/11325/vanityfair_18_thackeray_0535.flac|0|What a pang it was to lose all that: to have had it and not prized it!
+./DUMMY3/audio/6097_clean/14411/nada_lily_31_haggard_0305.flac|3|What shall we do-shall we fall upon her and kill her now?
+./DUMMY3/audio/11614_other/11736/manwhoendedwar_05_godfrey_0285.flac|2|How could he get a chance to change the papers?
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_67_dumas_0129.flac|5|Are you threatened?
+./DUMMY3/audio/9136_other/11325/vanityfair_36_thackeray_0015.flac|0|the trip abroad,
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_61_dumas_0079.flac|5|What is this man's name?
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_17_thompson_0039.flac|1|Was there a lack of food?
+./DUMMY3/audio/11697_other/13093/widowbarnaby_02_trollope_0091.flac|1|you dear clever creature, what a treasure you are!
+./DUMMY3/audio/11697_other/14407/bessiesfortune_06_holmes_0213.flac|1|What shall I do?
+./DUMMY3/audio/9136_other/11325/vanityfair_02_thackeray_0122.flac|0|When he was drunk, he used to beat his wife and daughter;
+./DUMMY3/audio/12787_other/13887/dayoffate_27_roe_0055.flac|9|Why did she fall into painful and even piteous confusion?
+./DUMMY3/audio/6671_other/12092/silentbattle_08_gibbs_0109.flac|7|"Oh, that you would dare!"
+./DUMMY3/audio/9017_clean/13130/dartagnan01_10_dumas_0252.flac|5|Certainly.
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_15_anonymous_0045.flac|6|If they decide correctly, it is well;
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_30_gaboriau_0039.flac|7|Then what was to become of his wife and his son?
+./DUMMY3/audio/6671_other/12092/silentbattle_26_gibbs_0038.flac|7|And then,
+./DUMMY3/audio/92_clean/7967/wonderfuladventures_01_seacole_0113.flac|8|Although considerably alarmed, I did not lose my senses;
+./DUMMY3/audio/8051_other/9685/annualreportseducation_44_mann_0745.flac|6|of Prussia,- one hundred million dollars;
+./DUMMY3/audio/11614_other/12352/prideofjennico_09_castle_0388.flac|2|I had sought to humble her-I had but debased myself!
+./DUMMY3/audio/6097_clean/13657/roots_51_morris_0069.flac|3|How the sparks fly twinkling up aloof!
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_28_dumas_0153.flac|5|Assuredly.
+./DUMMY3/audio/6097_clean/14411/nada_lily_02_haggard_0147.flac|3|"Have mercy, and I will do whatever you wish!"
+./DUMMY3/audio/9136_other/10673/secondsight_22_leverson_0042.flac|0|The moment the idea occurred to her, it occurred to Bruce also.
+./DUMMY3/audio/9136_other/10673/secondsight_24_leverson_0066.flac|0|There's really hardly anything to do!
+./DUMMY3/audio/6097_clean/14843/bambatse_01_haggard_0184.flac|3|Miss Clifford,
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_01_dumas_0144.flac|5|Exactly.
+./DUMMY3/audio/12787_other/13887/dayoffate_18_roe_0029.flac|9|What shall be the first entry on the blank page of my wakening mind?
+./DUMMY3/audio/12787_other/13887/dayoffate_02_roe_0131.flac|9|Are not heaven's best gifts best won by giving all for them?
+./DUMMY3/audio/6670_other/9506/portent_16_macdonald_0114.flac|4|Who knows how different I might have been if she had lived!
+./DUMMY3/audio/11697_other/15885/strangeworld_26_braddon_0199.flac|1|Market town; population twelve thousand.
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_30_gaboriau_0120.flac|7|Could it be that they had been refused access to the prison?
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_22_gaboriau_0026.flac|7|What a horrible insult!
+./DUMMY3/audio/6097_clean/14843/bambatse_01_haggard_0341.flac|3|pointed beard.
+./DUMMY3/audio/9136_other/11325/vanityfair_65_thackeray_0075.flac|0|We will have roast pheasants and porter, plum-pudding and French wine.
+./DUMMY3/audio/12787_other/13871/bigbluesoldier_03_hill_0201.flac|9|Children will be children, you know.
+./DUMMY3/audio/11697_other/13093/widowbarnaby_20_trollope_0135.flac|1|This was bad enough; but even this was not all.
+./DUMMY3/audio/6671_other/12092/silentbattle_01_gibbs_0048.flac|7|Good old Joe!
+./DUMMY3/audio/11614_other/12352/prideofjennico_07_castle_0153.flac|2|fixed upon me,
+./DUMMY3/audio/8051_other/9685/annualreportseducation_43_mann_0418.flac|6|overlooked.
+./DUMMY3/audio/11614_other/14179/catholicmorals_42_stapleton_0095.flac|2|Is it because they are too poor?
+./DUMMY3/audio/11697_other/15678/thirdvolume_17_hume_0120.flac|1|Two children.
+./DUMMY3/audio/6097_clean/13418/shortstories_03_gaskell_0190.flac|3|everybody else,
+./DUMMY3/audio/12787_other/13887/dayoffate_02_roe_0066.flac|9|Do I wish men only to read our paper?
+./DUMMY3/audio/9136_other/10673/secondsight_28_leverson_0249.flac|0|What is it, my child?
+./DUMMY3/audio/92_clean/9288/scarletletter_06_hawthorne_0017.flac|8|her mother's only treasure!
+./DUMMY3/audio/9136_other/11325/vanityfair_13_thackeray_0139.flac|0|Don't look angry.
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_16_dumas_0232.flac|5|"What, in Heaven's name, does he want?"
+./DUMMY3/audio/9136_other/11325/vanityfair_66_thackeray_0089.flac|0|unprotected,
+./DUMMY3/audio/9136_other/10673/secondsight_20_leverson_0043.flac|0|In a quarter of an hour?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_24_mann_0611.flac|6|The rest of the stream passes on, lifeless and corrupting.
+./DUMMY3/audio/6097_clean/14843/bambatse_22_haggard_0154.flac|3|carelessly arranged.
+./DUMMY3/audio/9136_other/10673/secondsight_01_leverson_0139.flac|0|Besides, what's the good of it anyway?
+./DUMMY3/audio/12787_other/14602/manofthedesert_07_hill_0158.flac|9|his handkerchief.
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_12_dumas_0018.flac|5|Will you not say something?
+./DUMMY3/audio/12787_other/13887/dayoffate_21_roe_0359.flac|9|Haven't you given that up yet?
+./DUMMY3/audio/11614_other/14179/catholicmorals_96_stapleton_0043.flac|2|But how shall I be able to refund it all!
+./DUMMY3/audio/6097_clean/14843/bambatse_01_haggard_0522.flac|3|But how about the hopelessness?
+./DUMMY3/audio/11614_other/12352/prideofjennico_14_castle_0122.flac|2|I hardly know myself how I come to be alive!
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_06_thompson_0015.flac|1|Inside and out it was plastered with clay, and the floor of dried mud was as smooth and hard as concrete paving.
+./DUMMY3/audio/9017_clean/15482/zarathustra_57_nietzsche_0308.flac|5|"Perhaps"
+./DUMMY3/audio/6097_clean/14411/nada_lily_27_haggard_0225.flac|3|Hear the words of the king, who honours you!
+./DUMMY3/audio/11614_other/10547/thousandnights8_05_anonymous_0024.flac|2|When she saw him in this plight, she was confounded and lost her wits;
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_46_dumas_0153.flac|5|Very good!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_17_mann_0371.flac|6|Hence,
+./DUMMY3/audio/8051_other/9685/annualreportseducation_07_mann_0553.flac|6|They would, therefore, yield to the necessity of the case.
+./DUMMY3/audio/6671_other/12092/silentbattle_09_gibbs_0196.flac|7|Has anything happened?
+./DUMMY3/audio/11614_other/10547/thousandnights8_24_anonymous_0418.flac|2|spacious and boon,
+./DUMMY3/audio/11697_other/15678/thirdvolume_18_hume_0270.flac|1|He found -
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_005_dumas_0071.flac|5|What answer could be made to this?
+./DUMMY3/audio/6671_other/13462/yellowdove_12_gibbs_0358.flac|7|automobile -
+./DUMMY3/audio/92_clean/9288/scarletletter_04_hawthorne_0231.flac|8|Therefore,
+./DUMMY3/audio/11614_other/11780/littleminister_23_barrie_0166.flac|2|How shamefully have we all besmirched it!
+./DUMMY3/audio/11614_other/10547/thousandnights8_38_anonymous_0150.flac|2|And yet-how justly unjust are they!
+./DUMMY3/audio/6670_other/8511/astoundingstories07_13_0240.flac|4|But this was different!
+./DUMMY3/audio/11614_other/11736/manwhoendedwar_14_godfrey_0195.flac|2|It looks to me as if the chances were better in one of the buildings on Tottenham Court Road than in any of the houses round here.
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_05_patten_0312.flac|4|Come!
+./DUMMY3/audio/12787_other/13887/dayoffate_13_roe_0091.flac|9|Would the mother and her two daughters survive?
+./DUMMY3/audio/12787_other/13887/dayoffate_04_roe_0161.flac|9|Resolving to explore a little, I said:
+./DUMMY3/audio/6097_clean/14411/nada_lily_30_haggard_0116.flac|3|what tale have you to tell?
+./DUMMY3/audio/6670_other/12406/darkother_28_weinbaum_0204.flac|4|oblivion,
+./DUMMY3/audio/6097_clean/8992/presentpictureofnsw_02_mann_0310.flac|3|Extortion - to be punished as circumstances may require.
+./DUMMY3/audio/6097_clean/13418/shortstories_10_gaskell_0257.flac|3|Come, little one! said she, holding out her arms.
+./DUMMY3/audio/11697_other/15678/thirdvolume_13_hume_0104.flac|1|A bundle of old newspapers in a garret!
+./DUMMY3/audio/6097_clean/14411/nada_lily_04_haggard_0024.flac|3|it was a sad sight for us to see!
+./DUMMY3/audio/6097_clean/14411/nada_lily_01_haggard_0273.flac|3|The little liar!
+./DUMMY3/audio/12787_other/13887/dayoffate_07_roe_0221.flac|9|Will your conscience permit you to teach me a little topography?
+./DUMMY3/audio/12787_other/14124/search_12_hill_0378.flac|9|questionable.
+./DUMMY3/audio/6670_other/8511/astoundingstories07_13_0231.flac|4|We were traveling at the rate of nearly two miles a second!
+./DUMMY3/audio/11614_other/12352/prideofjennico_03_castle_0351.flac|2|with affected dignity,
+./DUMMY3/audio/12787_other/13404/openingachestnutburr_08_roe_0089.flac|9|I will solve her mystery.
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_51_gaboriau_0348.flac|7|interviewed contractors,
+./DUMMY3/audio/6097_clean/15277/swag_04_tompkins_0331.flac|3|easily forded.
+./DUMMY3/audio/11614_other/12352/prideofjennico_06_castle_0062.flac|2|Then, meaning to rise and withdraw, I fell asleep in my chair.
+./DUMMY3/audio/9136_other/10673/secondsight_29_leverson_0061.flac|0|The quieter I am, the less worried, the better.
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_35_gaboriau_0027.flac|7|A hasty movement, and he would have fallen.
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_03_patten_0103.flac|4|and scarlet.
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_19_thompson_0147.flac|1|You're so little I didn't know you!
+./DUMMY3/audio/12787_other/13404/openingachestnutburr_10_roe_0093.flac|9|Gems of moisture sparkled unseen.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_28_mann_0521.flac|6|fuel;
+./DUMMY3/audio/6670_other/8541/atlanticnarratives2_11_thomas_0388.flac|4|Was she to fail her in this hour?
+./DUMMY3/audio/11697_other/15678/thirdvolume_16_hume_0133.flac|1|In two weeks!
+./DUMMY3/audio/6097_clean/11271/glitteringplain_11_morris_0135.flac|3|Now let us be glad!
+./DUMMY3/audio/9136_other/10673/secondsight_20_leverson_0345.flac|0|Good heavens, how extraordinary!
+./DUMMY3/audio/11614_other/12352/prideofjennico_06_castle_0214.flac|2|simple signature,
+./DUMMY3/audio/6670_other/8274/florencenightingaleangelcrimea_11_richards_0265.flac|4|its citizens, men in every stage of sickness and suffering;
+./DUMMY3/audio/11697_other/14407/bessiesfortune_28_holmes_0123.flac|1|No, why should it?
+./DUMMY3/audio/11697_other/15678/thirdvolume_09_hume_0053.flac|1|No one was present save Claude and her husband, so they were a very pleasant party of three.
+./DUMMY3/audio/92_clean/10425/secretagent_02_conrad_0302.flac|8|Yes.
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_07_nietzsche_0019.flac|8|And is there anything finer than to SEARCH for one's own virtues?
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_36_gaboriau_0275.flac|7|I do not understand your question, he retorted, angrily.
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_43_dumas_0020.flac|5|No;
+./DUMMY3/audio/6671_other/13462/yellowdove_06_gibbs_0313.flac|7|"And if I told you that I had destroyed them?"
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_14_gaboriau_0154.flac|7|The injustice of the proposed measure incensed me, that is all.
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_13_dumas_0113.flac|5|Nothing!
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_093_dumas_0031.flac|5|Certainly.
+./DUMMY3/audio/92_clean/10425/secretagent_04_conrad_0215.flac|8|Horrors!
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_053_dumas_0237.flac|5|Doubtless.
+./DUMMY3/audio/6097_clean/15277/swag_04_tompkins_0084.flac|3|Second Day.
+./DUMMY3/audio/9136_other/10673/secondsight_29_leverson_0170.flac|0|You won't have any regrets?
+./DUMMY3/audio/12787_other/13871/bigbluesoldier_03_hill_0221.flac|9|At first she was a little troubled lest he shouldn't be the kind of man she would want to introduce to Mary Amber;
+./DUMMY3/audio/92_clean/6973/livingalone_05_benson_0459.flac|8|No. Is it kind?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_39_mann_0545.flac|6|Would the pupil ever know how to work a sum in the rule of three?
+./DUMMY3/audio/12787_other/14124/search_15_hill_0281.flac|9|Oh, if he could just hear a word from home!
+./DUMMY3/audio/6671_other/12092/silentbattle_09_gibbs_0320.flac|7|"Well, Daddy!"
+./DUMMY3/audio/92_clean/9288/scarletletter_13_hawthorne_0307.flac|8|perhaps,
+./DUMMY3/audio/12787_other/14602/manofthedesert_03_hill_0104.flac|9|He had said he would marry her - he, - a married man!
+./DUMMY3/audio/11614_other/12352/prideofjennico_13_castle_0106.flac|2|But there is the quarter!
+./DUMMY3/audio/11697_other/15678/thirdvolume_07_hume_0130.flac|1|Very good!
+./DUMMY3/audio/9136_other/11325/vanityfair_63_thackeray_0325.flac|0|These are trivial details, but they relate to happy times.
+./DUMMY3/audio/6670_other/8070/shadesofwilderness_10_altsheler_0109.flac|4|That's right!
+./DUMMY3/audio/92_clean/10425/secretagent_03_conrad_0069.flac|8|He a pessimist!
+./DUMMY3/audio/12787_other/14124/search_09_hill_0016.flac|9|There had been a look in his face - a set look!
+./DUMMY3/audio/6671_other/12092/silentbattle_21_gibbs_0355.flac|7|Oh, that!
+./DUMMY3/audio/9136_other/11325/vanityfair_44_thackeray_0166.flac|0|compensation,
+./DUMMY3/audio/6671_other/13462/yellowdove_13_gibbs_0227.flac|7|contemptuously.
+./DUMMY3/audio/11697_other/15678/thirdvolume_22_hume_0048.flac|1|She will marry you, Claude, as Miss Kennedy, and know no more of her connection with the matter than she does at present.
+./DUMMY3/audio/9136_other/10673/secondsight_04_leverson_0123.flac|0|I am so interested in you!
+./DUMMY3/audio/92_clean/10425/secretagent_12_conrad_0174.flac|8|Do you think I wanted him to blow himself up?
+./DUMMY3/audio/9017_clean/15482/zarathustra_72_nietzsche_0015.flac|5|Hush!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_19_mann_0278.flac|6|oratory,
+./DUMMY3/audio/11614_other/12352/prideofjennico_07_castle_0303.flac|2|What is all the world to me-what all the traditions of my family-what even the knowledge of her deceit and my humiliation,
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_17_gaboriau_0034.flac|7|unfortunately,
+./DUMMY3/audio/6671_other/12092/silentbattle_03_gibbs_0193.flac|7|"Neither am I. Did you hear them - the voices?"
+./DUMMY3/audio/9017_clean/11216/celebratedcrimesv1_03_dumas_0126.flac|5|There is no smoke!" In other words, "We have a pope.
+./DUMMY3/audio/11614_other/10547/thousandnights8_30_anonymous_0220.flac|2|Furthermore,
+./DUMMY3/audio/9136_other/11325/vanityfair_14_thackeray_0550.flac|0|What a complexion, my dear!
+./DUMMY3/audio/6097_clean/14411/nada_lily_00_haggard_0201.flac|3|The late Mister Leslie, who died in eighteen seventy four, tells it in his book
+./DUMMY3/audio/6670_other/8070/shadesofwilderness_11_altsheler_0284.flac|4|Proceed.
+./DUMMY3/audio/11697_other/15678/thirdvolume_05_hume_0126.flac|1|Did it endure?
+./DUMMY3/audio/92_clean/10425/secretagent_02_conrad_0573.flac|8|heavy,
+./DUMMY3/audio/12787_other/13887/dayoffate_04_roe_0198.flac|9|Indeed, she can make it a tasteful expression of herself.
+./DUMMY3/audio/92_clean/10425/secretagent_08_conrad_0110.flac|8|No, Stevie must remain destitute and dependent.
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_06_thompson_0217.flac|1|Where did you learn to fence so admirably?
+./DUMMY3/audio/6097_clean/11271/glitteringplain_06_morris_0109.flac|3|They scowled at him as he went by, but meddled not with him in any way.
+./DUMMY3/audio/6097_clean/14411/nada_lily_00_haggard_0372.flac|3|At last it came, revealing a landscape blind with snow.
+./DUMMY3/audio/6097_clean/14843/bambatse_24_haggard_0043.flac|3|How stupid you are not to understand!
+./DUMMY3/audio/6671_other/12092/silentbattle_11_gibbs_0235.flac|7|carelessly,
+./DUMMY3/audio/8051_other/9685/annualreportseducation_08_mann_0408.flac|6|And what should prevent this?
+./DUMMY3/audio/6097_clean/15277/swag_04_tompkins_0507.flac|3|If not in good walking condition, this would be much the better plan.
+./DUMMY3/audio/6670_other/9506/portent_20_macdonald_0024.flac|4|"You saw me fall, then, nurse?"
+./DUMMY3/audio/92_clean/9288/scarletletter_24_hawthorne_0081.flac|8|Be true!
+./DUMMY3/audio/92_clean/9783/auntcretesemancipation_06_hill_0106.flac|8|perhaps-
+./DUMMY3/audio/8051_other/9685/annualreportseducation_31_mann_0257.flac|6|Thirdly.
+./DUMMY3/audio/11614_other/12352/prideofjennico_08_castle_0230.flac|2|At the beginning of the third week we made a journey higher into the mountains and stayed a few days at a certain hunting-box,
+./DUMMY3/audio/11697_other/15678/thirdvolume_11_hume_0097.flac|1|But did I solve it properly?
+./DUMMY3/audio/6097_clean/15277/swag_04_tompkins_0724.flac|3|twenty eight p.m. is much to be preferred.
+./DUMMY3/audio/6097_clean/14411/nada_lily_31_haggard_0406.flac|3|Is it not so, my sisters?
+./DUMMY3/audio/11614_other/12352/prideofjennico_09_castle_0390.flac|2|"Is this your English honour?"
+./DUMMY3/audio/9136_other/11325/vanityfair_54_thackeray_0302.flac|0|Can't you keep it quiet?
+./DUMMY3/audio/6671_other/13462/yellowdove_17_gibbs_0213.flac|7|however painful,
+./DUMMY3/audio/6670_other/8352/astounding_stories06_10_cummings_0450.flac|4|His face was lined, and the hair next to his scalp nearly snow white.
+./DUMMY3/audio/9136_other/10673/secondsight_29_leverson_0203.flac|0|And Bruce let me come down to look after you!
+./DUMMY3/audio/6670_other/7476/fairmystery_80_clay_0151.flac|4|What had happened?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_11_mann_0465.flac|6|eloquence,
+./DUMMY3/audio/6097_clean/15277/swag_03_tompkins_0019.flac|3|forty five a.m. train at Milson's Point,
+./DUMMY3/audio/9136_other/11325/vanityfair_62_thackeray_0187.flac|0|and the moon is already out, looking pale towards the sunset.
+./DUMMY3/audio/6670_other/8352/astounding_stories06_09_cummings_0043.flac|4|Now, you have seen that done.
+./DUMMY3/audio/6670_other/8352/astounding_stories06_09_cummings_0071.flac|4|Why couldn't that same pressure cool great caverns below the granite cap below the oil sands?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_34_mann_0330.flac|6|Theoretically,
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_69_dumas_0253.flac|5|and for whom?
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_08_thompson_0243.flac|1|And now he clutched the thought that Alice was not a mere child of the woods, but a daughter of an old family of cavaliers!
+./DUMMY3/audio/92_clean/10425/secretagent_04_conrad_0404.flac|8|The other, without flinching, lowered and raised his head slowly.
+./DUMMY3/audio/6671_other/12092/silentbattle_17_gibbs_0413.flac|7|She stopped and he remained silent, his head averted.
+./DUMMY3/audio/9017_clean/15482/zarathustra_64_nietzsche_0084.flac|5|Nay!
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_14_anonymous_0297.flac|6|At least, not without proof of malice.
+./DUMMY3/audio/11697_other/13093/widowbarnaby_42_trollope_0117.flac|1|And who is that pretty young lady?
+./DUMMY3/audio/9017_clean/13089/historyofforestry_12_fernow_0049.flac|5|To facilitate regeneration, a superficial culture of the soil is also advocated.
+./DUMMY3/audio/92_clean/10425/secretagent_08_conrad_0435.flac|8|There were two omnibuses to take, and a short walk between.
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_038_dumas_0111.flac|5|doubtless!
+./DUMMY3/audio/11614_other/12352/prideofjennico_09_castle_0119.flac|2|"Well, Mister my husband, what do you wish of me?"
+./DUMMY3/audio/12787_other/13887/dayoffate_03_roe_0304.flac|9|What man is safe a moment?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_09_mann_0550.flac|6|Science must grow out of observation, art out of science.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_33_mann_0066.flac|6|And what is this result?
+./DUMMY3/audio/11697_other/15885/strangeworld_19_braddon_0211.flac|1|Oh, how like the memory of a dream it seems when I think of it!
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_35_gaboriau_0383.flac|7|he exclaimed, delightedly.
+./DUMMY3/audio/11697_other/13093/widowbarnaby_03_trollope_0232.flac|1|absolutely nothing:
+./DUMMY3/audio/6097_clean/13657/roots_52_morris_0004.flac|3|what they would, that did they, and they had all things plenteously;
+./DUMMY3/audio/92_clean/10425/secretagent_01_conrad_0085.flac|8|which,
+./DUMMY3/audio/6671_other/12092/silentbattle_03_gibbs_0259.flac|7|It's a pity, isn't it?
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_054_dumas_0269.flac|5|impossible!
+./DUMMY3/audio/12787_other/14124/search_15_hill_0226.flac|9|This was France!
+./DUMMY3/audio/6097_clean/14764/jaufry_06_lafon_0256.flac|3|he replied,
+./DUMMY3/audio/6097_clean/14411/nada_lily_01_haggard_0098.flac|3|How old am I?
+./DUMMY3/audio/12787_other/13887/dayoffate_03_roe_0012.flac|9|It was just the meeting which, as a weary man, I needed.
+./DUMMY3/audio/11614_other/10547/thousandnights8_05_anonymous_0236.flac|2|like lightning.
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_19_thompson_0185.flac|1|You may leave me out of a chance like that!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_05_mann_0115.flac|6|From the Abstract of the School Returns of this Commonwealth (which I have this day submitted to the Board),
+./DUMMY3/audio/11697_other/14407/bessiesfortune_08_holmes_0230.flac|1|What do you mean?
+./DUMMY3/audio/9136_other/11325/vanityfair_56_thackeray_0440.flac|0|and that friends,
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_00_nietzsche_0090.flac|8|all the distress of spirit and all the tension of its bow!
+./DUMMY3/audio/11614_other/12352/prideofjennico_09_castle_0239.flac|2|I thought you could learn of love that love alone is worth living for!
+./DUMMY3/audio/9136_other/10673/secondsight_28_leverson_0290.flac|0|The situation was saved.
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_56_dumas_0179.flac|5|"Monseigneur!"
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_19_thompson_0029.flac|1|We'll forego excitement; there's no battle on hand, gentlemen.
+./DUMMY3/audio/12787_other/14124/search_17_hill_0105.flac|9|They adored her.
+./DUMMY3/audio/9136_other/10673/secondsight_05_leverson_0339.flac|0|Would she ever see him again?
+./DUMMY3/audio/11614_other/12352/prideofjennico_04_castle_0266.flac|2|were curiously similar.
+./DUMMY3/audio/6097_clean/13657/roots_17_morris_0253.flac|3|The plain was grown over with grass, but he could see no tree therein:
+./DUMMY3/audio/11614_other/11736/manwhoendedwar_03_godfrey_0124.flac|2|"Did he know anything of the Alaska?"
+./DUMMY3/audio/6097_clean/13657/roots_31_morris_0255.flac|3|cheerful voice:
+./DUMMY3/audio/11697_other/13093/widowbarnaby_32_trollope_0073.flac|1|What will you do first?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_42_mann_0019.flac|6|There is a third class, who have no faith in the utility of education.
+./DUMMY3/audio/9136_other/11325/vanityfair_62_thackeray_0340.flac|0|The lady in black,
+./DUMMY3/audio/11614_other/12352/prideofjennico_11_castle_0192.flac|2|I was sane enough now, God knows!
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_20_thompson_0311.flac|1|She was not looking toward him; but she saw him and turned to face him.
+./DUMMY3/audio/11614_other/11965/petersimple_28_marryat_0095.flac|2|The boat was manned, and a midshipman ordered to take charge of it;
+./DUMMY3/audio/92_clean/9288/scarletletter_20_hawthorne_0443.flac|8|"Come in!" -
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_81_dumas_0171.flac|5|"And why not, pray?"
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_77_dumas_0238.flac|5|Probably.
+./DUMMY3/audio/6670_other/8511/astoundingstories07_12_0286.flac|4|America was going to fight in earnest!
+./DUMMY3/audio/12787_other/13887/dayoffate_10_roe_0099.flac|9|Do you know where any of these birds live?
+./DUMMY3/audio/8051_other/9685/annualreportseducation_29_mann_0087.flac|6|Teacher.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_16_mann_0699.flac|6|What should his next step be?
+./DUMMY3/audio/6670_other/9635/religiousstudies_35_stowe_0153.flac|4|What work of art can compare with a lofty and heroic life?
+./DUMMY3/audio/9136_other/10673/secondsight_12_leverson_0108.flac|0|He's depressed.
+./DUMMY3/audio/9136_other/11325/vanityfair_13_thackeray_0241.flac|0|What an old, old simile that is, between man and timber!
+./DUMMY3/audio/6670_other/8541/atlanticnarratives2_04_thomas_0345.flac|4|What of the many gifts in his power might he offer that could enrich her life?
+./DUMMY3/audio/6671_other/12092/silentbattle_08_gibbs_0155.flac|7|She knew that she had said too much, but she went on coldly.
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_02_thompson_0017.flac|1|What could the brave missionaries do but make the very best of a perilous situation?
+./DUMMY3/audio/12787_other/14124/search_11_hill_0203.flac|9|Those words he had called Cameron's father!
+./DUMMY3/audio/6670_other/8511/astoundingstories07_11_0090.flac|4|Nevertheless,
+./DUMMY3/audio/12787_other/14602/manofthedesert_02_hill_0223.flac|9|He probably would, but the idea was not attractive just now.
+./DUMMY3/audio/6670_other/8070/shadesofwilderness_16_altsheler_0435.flac|4|and who was the woman and how had he got there?
+./DUMMY3/audio/12787_other/13887/dayoffate_10_roe_0201.flac|9|If we don't know what we know, we don't know anything.
+./DUMMY3/audio/12787_other/13887/dayoffate_07_roe_0015.flac|9|Miss Warren is a genuine woman - one after your own heart.
+./DUMMY3/audio/12787_other/13887/dayoffate_10_roe_0158.flac|9|Oh, yes, I have a broad charity for all of his kind.
+./DUMMY3/audio/12787_other/14124/search_18_hill_0164.flac|9|But he came.
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_13_gaboriau_0313.flac|7|And they accuse us, daughters of the nobility, of being proud!
+./DUMMY3/audio/11697_other/15678/thirdvolume_21_hume_0188.flac|1|Your child.
+./DUMMY3/audio/6670_other/8511/astoundingstories07_12_0323.flac|4|How puny were the efforts of the five thousand air cruisers!
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_053_dumas_0427.flac|5|Precisely.
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_08_patten_0073.flac|4|Take one.
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_29_dumas_0385.flac|5|"Why?"
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_055_dumas_0151.flac|5|What use do you make of these men?
+./DUMMY3/audio/92_clean/9288/scarletletter_21_hawthorne_0041.flac|8|"Look your last on the scarlet letter and its wearer!" -
+./DUMMY3/audio/9136_other/10673/secondsight_28_leverson_0308.flac|0|Did she ever regret it?
+./DUMMY3/audio/92_clean/10425/secretagent_08_conrad_0118.flac|8|She got her hand-bag, an umbrella, with an impassive face.
+./DUMMY3/audio/11614_other/12352/prideofjennico_17_castle_0570.flac|2|"Oh, you are mad, you are mad!"
+./DUMMY3/audio/8051_other/9685/annualreportseducation_22_mann_0607.flac|6|We eat, not merely with indecent, but with unhealthful haste.
+./DUMMY3/audio/6097_clean/14843/bambatse_03_haggard_0052.flac|3|Is there any man here who will make place for her?
+./DUMMY3/audio/92_clean/9288/scarletletter_20_hawthorne_0360.flac|8|that I am utterly bewildered as touching the purport of your words!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_35_mann_0098.flac|6|They read, and define words;
+./DUMMY3/audio/11697_other/15678/thirdvolume_07_hume_0233.flac|1|Judges are such brutes!
+./DUMMY3/audio/12787_other/14602/manofthedesert_13_hill_0097.flac|9|Dear madam.
+./DUMMY3/audio/11614_other/11965/petersimple_33_marryat_0196.flac|2|After a calm comes a storm; and how quiet is everything now!
+./DUMMY3/audio/12787_other/13871/bigbluesoldier_06_hill_0340.flac|9|"But really, you know, it looked rather peculiar to me - "
+./DUMMY3/audio/8051_other/9685/annualreportseducation_06_mann_0468.flac|6|because,
+./DUMMY3/audio/6670_other/8352/astounding_stories06_09_cummings_0269.flac|4|Gasping, he watched the depth meter in front of him.
+./DUMMY3/audio/11614_other/12352/prideofjennico_05_castle_0358.flac|2|On your honour I lay it!
+./DUMMY3/audio/11614_other/11965/petersimple_28_marryat_0350.flac|2|At last we got under the counter, and I climbed up by the stern ladder.
+./DUMMY3/audio/6097_clean/14843/bambatse_02_haggard_0139.flac|3|If you will give yourself to me I feel as though I might still become a husband of whom you could be proud-if not,
+./DUMMY3/audio/8051_other/9685/annualreportseducation_23_mann_0580.flac|6|It contains salts, fatty or unctuous matter, and other impurities.
+./DUMMY3/audio/11614_other/11780/littleminister_08_barrie_0024.flac|2|authoritatively,
+./DUMMY3/audio/11614_other/14179/catholicmorals_97_stapleton_0073.flac|2|If I fail, I may consider the object mine and may use it as such.
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_30_gaboriau_0187.flac|7|What did all this mean?
+./DUMMY3/audio/11697_other/15885/strangeworld_23_braddon_0170.flac|1|The Bible had been given away-but to whom?
+./DUMMY3/audio/6670_other/12576/goldengemsoflife_009_allen_0215.flac|4|How transitory are the days of girlhood!
+./DUMMY3/audio/92_clean/9288/scarletletter_06_hawthorne_0018.flac|8|How strange, indeed!
+./DUMMY3/audio/8051_other/9685/annualreportseducation_35_mann_0677.flac|6|Is it right?
+./DUMMY3/audio/92_clean/9288/scarletletter_20_hawthorne_0373.flac|8|we must needs talk thus in the daytime!
+./DUMMY3/audio/11614_other/12352/prideofjennico_07_castle_0172.flac|2|disappointment,
+./DUMMY3/audio/9136_other/11325/vanityfair_56_thackeray_0507.flac|0|watchfulness,
+./DUMMY3/audio/92_clean/10425/secretagent_06_conrad_0126.flac|8|she was, as it were, above the play of economic conditions.
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_015_dumas_0036.flac|5|Well!
+./DUMMY3/audio/6097_clean/13418/shortstories_05_gaskell_0193.flac|3|What would her mother say if she knew how cross and cruel her little Mary was getting?
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_30_dumas_0061.flac|5|"Continue,"
+./DUMMY3/audio/6671_other/13462/yellowdove_03_gibbs_0476.flac|7|Would they make it?
+./DUMMY3/audio/12787_other/13404/openingachestnutburr_19_roe_0166.flac|9|What a monster I should be if I heedlessly left you to suffer!
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_04_dumas_0065.flac|5|"Why?"
+./DUMMY3/audio/6671_other/13462/yellowdove_16_gibbs_0114.flac|7|whispering:
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_013_dumas_0047.flac|5|Marie?
+./DUMMY3/audio/92_clean/9783/auntcretesemancipation_06_hill_0179.flac|8|Was the world turned upside down?
+./DUMMY3/audio/6097_clean/8992/presentpictureofnsw_02_mann_0584.flac|3|Petitions -
+./DUMMY3/audio/11614_other/14179/catholicmorals_33_stapleton_0033.flac|2|What is superstition and what is a superstitious practice?
+./DUMMY3/audio/11614_other/12220/barontrump_28_lockwood_0001.flac|2|little princess,
+./DUMMY3/audio/6671_other/12092/silentbattle_28_gibbs_0382.flac|7|Later on,
+./DUMMY3/audio/6670_other/8274/florencenightingaleangelcrimea_03_richards_0240.flac|4|Here, too, Florence was busy in good and helpful work.
+./DUMMY3/audio/6671_other/12092/silentbattle_06_gibbs_0373.flac|7|"Don't you like it?"
+./DUMMY3/audio/11614_other/12352/prideofjennico_02_castle_0059.flac|2|and yet, would I now undo the past if I could?
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_35_dumas_0193.flac|5|No!
+./DUMMY3/audio/12787_other/14124/search_02_hill_0250.flac|9|Poor little useless woman that she was!
+./DUMMY3/audio/11697_other/13093/widowbarnaby_16_trollope_0064.flac|1|besides.
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_09_nietzsche_0271.flac|8|because,
+./DUMMY3/audio/11697_other/14407/bessiesfortune_15_holmes_0048.flac|1|Why did you give your room to Grey?
+./DUMMY3/audio/6097_clean/14764/jaufry_07_lafon_0007.flac|3|exclaimed aloud:
+./DUMMY3/audio/9136_other/11325/vanityfair_43_thackeray_0113.flac|0|There are women, and handsome women too, who have this fortune in life.
+./DUMMY3/audio/9017_clean/11216/celebratedcrimesv1_21_dumas_0100.flac|5|He was put to the torture, and confessed everything.
+./DUMMY3/audio/9136_other/10673/secondsight_23_leverson_0084.flac|0|Whatever the reason was, it annoyed him.
+./DUMMY3/audio/9017_clean/13130/dartagnan01_08_dumas_0213.flac|5|"Yes?"
+./DUMMY3/audio/6671_other/12092/silentbattle_18_gibbs_0455.flac|7|No, don't touch me.
+./DUMMY3/audio/6670_other/8511/astoundingstories07_13_0328.flac|4|We have missed our calculation by a few hundred miles, that is all.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_22_mann_0034.flac|6|when we wake up to consciousness of our formation (if we ever do wake up to that consciousness),
+./DUMMY3/audio/12787_other/13887/dayoffate_12_roe_0029.flac|9|Reuben sat down on the piazza, in his quiet, undemonstrative way.
+./DUMMY3/audio/9017_clean/11216/celebratedcrimesv1_16_dumas_0020.flac|5|The nomination came to pass:
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_15_dumas_0160.flac|5|Absolutely.
+./DUMMY3/audio/12787_other/13871/bigbluesoldier_04_hill_0005.flac|9|But the door was not shut.
+./DUMMY3/audio/11697_other/15885/strangeworld_11_braddon_0142.flac|1|He had a little craft of his own, four or five tons burden, and was passionately fond of the water.
+./DUMMY3/audio/11614_other/12220/barontrump_24_lockwood_0118.flac|2|Then, as she plucked me by the sleeve, I pleaded,
+./DUMMY3/audio/6670_other/9506/portent_15_macdonald_0062.flac|4|"What if she should be there!"
+./DUMMY3/audio/92_clean/10425/secretagent_02_conrad_0339.flac|8|You-a member of a starving proletariat-never!
+./DUMMY3/audio/6670_other/7908/buffcollie_19_terhune_0109.flac|4|I believe Tam has gone hunting, on his own account.
+./DUMMY3/audio/6671_other/12092/silentbattle_05_gibbs_0312.flac|7|In a day or two when I'm quite sure of my foot, we'll go out together.
+./DUMMY3/audio/92_clean/10425/secretagent_11_conrad_0614.flac|8|It was in her veins, in her bones, in the roots of her hair.
+./DUMMY3/audio/9136_other/10673/secondsight_08_leverson_0021.flac|0|But for anything else!
+./DUMMY3/audio/12787_other/13887/dayoffate_32_roe_0179.flac|9|more bitterly;
+./DUMMY3/audio/92_clean/9288/scarletletter_12_hawthorne_0477.flac|8|Well, well, indeed!
+./DUMMY3/audio/11614_other/12352/prideofjennico_02_castle_0473.flac|2|Will you not continue the ceremony?
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_02_nietzsche_0773.flac|8|which does not wish to be misunderstood and mistaken?
+./DUMMY3/audio/12787_other/13404/openingachestnutburr_27_roe_0126.flac|9|At any season, the moment I get out of doors I feel new life and hope.
+./DUMMY3/audio/92_clean/10425/secretagent_07_conrad_0463.flac|8|A murky, gloomy dampness enveloped him.
+./DUMMY3/audio/11697_other/15678/thirdvolume_11_hume_0131.flac|1|Nonsense!
+./DUMMY3/audio/12787_other/14124/search_09_hill_0193.flac|9|If she only knew which way he had gone!
+./DUMMY3/audio/11614_other/12220/barontrump_15_lockwood_0091.flac|2|strange build,
+./DUMMY3/audio/11697_other/13093/widowbarnaby_09_trollope_0260.flac|1|So clever,.
+./DUMMY3/audio/6097_clean/9575/astralplane_04_leadbeater_0036.flac|3|that is to say, they either have been or will be men like ourselves;
+./DUMMY3/audio/6671_other/12092/silentbattle_24_gibbs_0235.flac|7|thinking.
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_30_gaboriau_0168.flac|7|Hope, courage!
+./DUMMY3/audio/6670_other/7476/fairmystery_85_clay_0221.flac|4|a white face looking up, still and cold in death.
+./DUMMY3/audio/6671_other/5479/monsieurlecoq_2_12_gaboriau_0202.flac|7|Here, you fellows, take all these things back again, and that quickly!
+./DUMMY3/audio/6671_other/12092/silentbattle_18_gibbs_0091.flac|7|You've tried to stem the tide against you, but you couldn't.
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_036_dumas_0124.flac|5|Oh!
+./DUMMY3/audio/12787_other/13887/dayoffate_10_roe_0135.flac|9|Well, prove that I don't.
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_12_anonymous_0233.flac|6|You copied that paper from the registry, didn't you?
+./DUMMY3/audio/92_clean/13594/beyondgoodandevil_06_nietzsche_0252.flac|8|indeed, he sets himself to reflect on his suffering, but in vain!
+./DUMMY3/audio/6097_clean/8992/presentpictureofnsw_03_mann_0109.flac|3|September.
+./DUMMY3/audio/6671_other/13462/yellowdove_10_gibbs_0257.flac|7|fascinated,
+./DUMMY3/audio/92_clean/10425/secretagent_02_conrad_0639.flac|8|Mister Verloc, aware of the sensation, raised his head bravely.
+./DUMMY3/audio/6671_other/12092/silentbattle_05_gibbs_0382.flac|7|Slowly he obeyed, dumb with fatigue, but inexpressibly grateful.
+./DUMMY3/audio/6670_other/6416/fourweirdtales_08_blackwood_0263.flac|4|a numbing, aching pain possessed him.
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_17_anonymous_0326.flac|6|Ridiculously absurd question, you say.
+./DUMMY3/audio/9017_clean/13130/dartagnan01_33_dumas_0198.flac|5|He resumed his listening, but unfortunately the toilet was finished.
+./DUMMY3/audio/8051_other/9685/annualreportseducation_28_mann_0570.flac|6|How often does e take the sound of a, as in there, where, et cetera;
+./DUMMY3/audio/9136_other/11325/vanityfair_63_thackeray_0433.flac|0|The little scamp!
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_61_dumas_0321.flac|5|Look.
+./DUMMY3/audio/12787_other/14079/herotales_08_burnham_0051.flac|9|When he began to reign, he ruled like all the other kings he had known.
+./DUMMY3/audio/6097_clean/14843/bambatse_01_haggard_0503.flac|3|"Why ruined and hopeless?"
+./DUMMY3/audio/92_clean/10633/souloflondon_03_ford_0248.flac|8|They were rising imperceptibly, we approaching imperceptibly.
+./DUMMY3/audio/9136_other/10673/secondsight_23_leverson_0080.flac|0|Why should he care?
+./DUMMY3/audio/12787_other/13887/dayoffate_02_roe_0085.flac|9|Was my presence the cause of the spiritual paralysis?
+./DUMMY3/audio/92_clean/7967/wonderfuladventures_10_seacole_0348.flac|8|These,
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_069_dumas_0003.flac|5|hesitation.
+./DUMMY3/audio/9017_clean/13130/dartagnan01_08_dumas_0113.flac|5|"Truly!"
+./DUMMY3/audio/9017_clean/15482/zarathustra_81_nietzsche_0093.flac|5|Who is to be master of the world?
+./DUMMY3/audio/11697_other/14407/bessiesfortune_26_holmes_0164.flac|1|I did not like your mother; I am free to tell you that.
+./DUMMY3/audio/6670_other/8274/florencenightingaleangelcrimea_11_richards_0076.flac|4|It was dated Windsor Castle, December sixth eighteen fifty four.
+./DUMMY3/audio/9136_other/10673/secondsight_05_leverson_0338.flac|0|Where was he now?
+./DUMMY3/audio/92_clean/10425/secretagent_03_conrad_0441.flac|8|humiliating,
+./DUMMY3/audio/6670_other/6416/fourweirdtales_07_blackwood_0293.flac|4|He sighed.
+./DUMMY3/audio/92_clean/10425/secretagent_04_conrad_0397.flac|8|How am I to express myself?
+./DUMMY3/audio/11697_other/15543/aliceofoldvincennes_16_thompson_0273.flac|1|He gazed for some time, not without a sense of villainy, while she continued her sweetly monotonous reading.
+./DUMMY3/audio/92_clean/10633/souloflondon_10_ford_0087.flac|8|unthinking,
+./DUMMY3/audio/11614_other/11965/petersimple_16_marryat_0271.flac|2|He then asked what I was - what sort of officer - was I captain?
+./DUMMY3/audio/12787_other/13887/dayoffate_10_roe_0222.flac|9|Do you realize that your philosophy would stop half the industries of the world?
+./DUMMY3/audio/6097_clean/15277/swag_00_tompkins_0038.flac|3|What do you gain in the end?
+./DUMMY3/audio/6097_clean/13418/shortstories_10_gaskell_0764.flac|3|crying out,
+./DUMMY3/audio/9017_clean/13130/dartagnan01_41_dumas_0209.flac|5|Well, that was a temptation for two wretches like you.
+./DUMMY3/audio/11614_other/12220/barontrump_22_lockwood_0140.flac|2|And yet I was still outside the throne-room of his frigid Majesty!
+./DUMMY3/audio/11614_other/12352/prideofjennico_02_castle_0520.flac|2|Is masquerading a condition of tenure?
+./DUMMY3/audio/11614_other/12352/prideofjennico_05_castle_0061.flac|2|absorbed in contemplation,
+./DUMMY3/audio/8051_other/8930/trialofsusanbanthony_12_anonymous_0177.flac|6|Do you know how many tickets they voted, or offered to the inspectors?
+./DUMMY3/audio/12787_other/13887/dayoffate_01_roe_0119.flac|9|The air was close, the sky leaden; even the birds would not sing.
+./DUMMY3/audio/6671_other/12092/silentbattle_10_gibbs_0315.flac|7|You forgave me, didn't you?
+./DUMMY3/audio/9017_clean/14261/dartagnan03part3_13_dumas_0095.flac|5|"Madame,"
+./DUMMY3/audio/9017_clean/13885/dartagnan03part1_100_dumas_0072.flac|5|Never.
+./DUMMY3/audio/92_clean/10425/secretagent_13_conrad_0500.flac|8|Nothing.
+./DUMMY3/audio/6097_clean/14764/jaufry_03_lafon_0024.flac|3|God save you, and your friends beside!
+./DUMMY3/audio/92_clean/10425/secretagent_06_conrad_0645.flac|8|And he repeated, as if reconsidering the suggestion conscientiously:
+./DUMMY3/audio/11697_other/13673/actressinhighlife_04_bowen_0250.flac|1|One suggested one reason; another, another.
+./DUMMY3/audio/6097_clean/14843/bambatse_22_haggard_0346.flac|3|desperate,
+./DUMMY3/audio/6097_clean/11271/glitteringplain_16_morris_0085.flac|3|being weaponless;
+./DUMMY3/audio/6670_other/8322/internationalshortstories1_09_patten_0112.flac|4|hysterical,
+./DUMMY3/audio/6671_other/12092/silentbattle_26_gibbs_0421.flac|7|I don't often make a mistake in my judgment of men, but I did of you.
+./DUMMY3/audio/9136_other/10673/secondsight_25_leverson_0139.flac|0|Then Edith said, picking up the knitting:

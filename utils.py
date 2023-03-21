@@ -8,6 +8,8 @@ import subprocess
 import numpy as np
 from scipy.io.wavfile import read
 import torch
+import soundfile as sf
+import librosa
 
 MATPLOTLIB_FLAG = False
 
@@ -40,6 +42,7 @@ def load_checkpoint(checkpoint_path, model, optimizer=None):
     model.load_state_dict(new_state_dict)
   logger.info("Loaded checkpoint '{}' (iteration {})" .format(
     checkpoint_path, iteration))
+  print(f"Loaded checkpoint '{checkpoint_path}' (iteration {iteration})")
   return model, optimizer, learning_rate, iteration
 
 
@@ -100,6 +103,32 @@ def plot_spectrogram_to_numpy(spectrogram):
   plt.close()
   return data
 
+def plot_pitch_energy_to_numpy(pitch, energy, pitch_prediction, energy_prediction):
+  global MATPLOTLIB_FLAG
+  if not MATPLOTLIB_FLAG:
+    import matplotlib
+    matplotlib.use("Agg")
+    MATPLOTLIB_FLAG = True
+    mpl_logger = logging.getLogger('matplotlib')
+    mpl_logger.setLevel(logging.WARNING)
+  import matplotlib.pylab as plt
+  import numpy as np
+
+  fig, axs = plt.subplots(nrows=1, ncols=2, figsize=(6, 3))
+  axs[0].plot(pitch, label="pitch gt")
+  if pitch_prediction is not None:
+    axs[0].plot(pitch_prediction, label="pitch et")
+  axs[0].legend()
+  axs[1].plot(energy, label="energy gt")
+  if energy_prediction is not None:
+    axs[1].plot(energy_prediction, label="energy et")
+  axs[1].legend()
+  plt.tight_layout()
+  fig.canvas.draw()
+  data = np.fromstring(fig.canvas.tostring_rgb(), dtype=np.uint8, sep='')
+  data = data.reshape(fig.canvas.get_width_height()[::-1] + (3,))
+  plt.close()
+  return data
 
 def plot_alignment_to_numpy(alignment, info=None):
   global MATPLOTLIB_FLAG
@@ -134,6 +163,19 @@ def load_wav_to_torch(full_path):
   sampling_rate, data = read(full_path)
   return torch.FloatTensor(data.astype(np.float32)), sampling_rate
 
+def load_audio_to_torch(full_path):
+  filename, ext = os.path.splitext(full_path)
+  if ext in ['.flac']:
+    m_filename = f'{filename}_22k.wav'
+    if not os.path.exists(m_filename):
+      data, original_sr = sf.read(full_path)
+      data_22k = librosa.resample(data, orig_sr=original_sr, target_sr=22050)
+      sf.write(m_filename, data_22k, 22050, 'PCM_16') 
+    sampling_rate, data = read(m_filename)
+  elif ext == '.wav':
+    sampling_rate, data = read(full_path)
+    m_filename = full_path
+  return torch.FloatTensor(data.astype(np.float32)), sampling_rate, m_filename
 
 def load_filepaths_and_text(filename, split="|"):
   with open(filename, encoding='utf-8') as f:
@@ -145,8 +187,6 @@ def get_hparams(init=True):
   parser = argparse.ArgumentParser()
   parser.add_argument('-c', '--config', type=str, default="./configs/base.json",
                       help='JSON file for configuration')
-  # parser.add_argument('-ec', '--envconfig', type=str, default="./configs/environ.json",
-  #                     help="JSON file for environment setting")
   parser.add_argument('-m', '--model', type=str, required=True,
                       help='Model name')
   
@@ -157,7 +197,6 @@ def get_hparams(init=True):
     os.makedirs(model_dir)
 
   config_path = args.config
-  # envconfig_path = args.envconfig
   config_save_path = os.path.join(model_dir, "config.json")
   if init:
     with open(config_path, "r") as f:

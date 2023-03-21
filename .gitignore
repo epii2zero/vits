@@ -11,3 +11,5 @@ build
 monotonic_align/monotonic_align
 inference/result
 inference/figures
+preprocessed_data
+temp
